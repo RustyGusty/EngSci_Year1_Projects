@@ -1,0 +1,16 @@
+﻿  sammycarving.c
+C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(17,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(23,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(42,8): error C2059: syntax error: '<parameter-list>'
+C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(112,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(113,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(116,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(117,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(121,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(122,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(120,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  test.c
+C:\Users\llnak\source\ESC190\Project_2\Project_2\test.c(226,25): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llnak\source\ESC190\Project_2\Project_2\test.c(226,39): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llnak\source\ESC190\Project_2\Project_2\test.c(267,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...

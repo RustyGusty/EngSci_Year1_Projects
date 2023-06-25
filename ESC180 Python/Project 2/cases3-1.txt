@@ -1,0 +1,1000 @@
+__,b w bww wb    w b  bbb bbw w wbwwww bwbbwb wb b    bbw wb b ww w
+__,bw  bw w bbw   bb bbb bwww   bw b  wwwwbb w  bwbbw bwwb  w wwb  
+__,bb bbww bwbbw b wb  w bbbwwbww bwbbw  ww b  b w w  w ww   bw   b
+__,bww b   b www  bb bw   bwbbwwww b wb   wbw bwbb   w  wbbwbwb w b
+__,b wwbb   bbw wbwb wbwbbwwbb wb ww   bw  w  bbw ww  wb wbb  w   b
+__,bbbbw b  wb  ww w  wbb     bwbb bwb bb www  wb  w wbwww w wbbbw 
+__,bww  bbw wb b bbbb  wwb wb w wbww     b w w w bbw wwwb bbbw w  b
+__,bwww    bbbw     wb w bwwbwb ww   b bwbbw   w w    bw b     bbb 
+__,bbb  b w  b bbw  w ww  bwbbw   bb bbbwwwwwbbbwbw ww   w ww  wb  
+__,b  ww   wbwbw bbbbw wbwb w    ww wbb   b ww bbbwbbwwb wbw  w b  
+__,b  w  b ww   b  bw wb w wwb w wbwb wwb b wb wwb b bbb bwbbww w b
+__,bwb  b w  ww bww wwb     bw  w  bbbbw     wb  b ww  b bw bbwwb b
+__,bbww   wwww bwb bwb b bwww bw  w  b    bb  wbb  wbw bbbw b wbw w
+__,bb    bw w bwww  bwb bbw  b www b   b wbbw w w   bwbw b bbwwwbwb
+__,bb bb  b    b w bwwww bbww wbb bbw  wb  ww b ww   bwb bbwbwww  w
+__,b bbww www bbw   bb ww  wbww  wbwbb   bw  w  w  bbww b  bbwb wbb
+__,b w wb wbwwwwb w   bw bbwwb wwbw   b bwb bbb   w   b   bwwbwbbw 
+__,b  wbbbwwb     w  wbb  w wbw bwbb ww  bw ww w  bwwwbbbb b  w wbb
+__,bwbw b bww ww  b www  w b wb b      bw wbbwbb bb wwbww bbbbw   w
+__,bbww  ww b b wb b wbbw w  b  wb bwwww w b w    wbb  bw bbwbw bwb
+__,b bbwb wwbw   w bww  wb   wbwbw  bb  b w  bwwbb bw w  w wbbbw bw
+__,b bb   ww bwb wb  b ww  www  bww   bwbwbwwbw  w bb  bwwbw  bbbb 
+__,b wbw   bw w bbwww  wbbww bbb  b    bwbbw   b  wwb wb bww wbwwb 
+__,bbbwb   wwwbbbb  b   wwbw b b ww bw ww bw wb  bwb w  ww b ww b b
+__,bw  wbwwbww ww w  bw  wbw  wwbwbb  b wbb b  bb wb bwb  w  w bb b
+__,bb   bw b  w   b b     bw  bww b ww bwwbb bwww b w b wbw w wb  b
+__,b bbw wb  wbwwb  w wbb wbw  bwbbw bwwb w   w  w bbb bw w bw  wb 
+__,b bb bw bb    ww bww b bbww w  www w bww b bbb b  wbb  wwww bb w
+__,bb bwbwbwww   b   w bbwb b    bw    w  w  bbbww wwbb wbw bbbwwww
+__,bw wwbbbw bww bbb w b      w wbbwbww    bb bw  ww  wbwbbw  wwb b
+__,b    www   w  b  wbbwwbb wwbwbw  bbbwbb w  b  w www bbbw  bwbbw 
+__,bwwbbb bwww w    w  bw bw b bbbwbbb ww  w  bbbwww   wb  b  wbw w
+__,bw ww    bb wbwbw b b wbw bbwbb w bwwww   w bwbbb b    b wwbww  
+__,bw     bwbb w ww w wwb b w b w bb   w bbb w  wbwbbwwb wbww wbb b
+__,bw bw b bwbbw  bw b    wbwb  wwbwww  b wb www w wb   bwb  wb bbb
+__,bwb    bw wbwbwb w    b wbbb wbwbb  bbbww  wwwwww   wwbb  b   wb
+__,b wb bbb b wbb  bbwww wwwb  wwb  wwwbwbb ww b   w   bwb   ww bb 
+__,b  w  b wwbw bwbb bb wbw    bww  b wwwwbbbw wwwb     b  wwwbb bb
+__,bbb bw  bbwbw  w b   ww  b  wwwwbwb  w bbbww  wwbbwbb  wb   wbw 
+__,b   bww wbbw b  b b ww  bwwbwb    b bwb    bw b  wwww  wb b   wb
+__,b w bbbwbw bwbw bb  bbw wb w  w   w  w bbw  wb b wb bbww wwb w w
+__,b    bw  wbw bbw wbb   bwbbbwbwbwww w bwwb bwwbw     wb  w b  wb
+__,b   wwbw wbw bb bb   ww bbw wwwbb b bwbbbb w     b bww ww  w wbw
+__,bb   wwb bwbb ww b wwb wbwb bb    ww bb  w  bwwbbwwwww  b  b bw 
+__,bww w   b  w  wbwbbbwb w   w bb b bwbbb  w bww  ww wbww w  bbwbb
+__,bwb  wb w  w    bwwwb  b b bwb bwwbbwbw w ww  w w bwbbbwb bb w  
+__,b w b w     bbwbbb  b  wb w bw www bbw b  wbwww  bbb w wbwb w   
+__,bbb wwbb b  wbwww   wb wbw   bb wbbb  b bw wwb  wwb  bw wb w  ww
+__,bw wwwbw b b  bbb w bw w wbb   w wb bw wbbw bwbw  w  wb bwb   wb
+__,bb     b wbb  wb www  b w wb b wbbwbwwb wbwbb w bww b  w  wwwbb 
+__,b b   bw w wbwww w b w   w bw  wbb w   b  b  wb  b   b w bwbb  w
+__,bb bw bwbwwb  bwb  w  bw b b bwww bwwbw b   w bwb wwbw   bw  w b
+__,bbww w wb bw  bwb   wbb bb wb bb w wwwwww  b    bbbww  bw bw  bw
+__,bbbb  w  w w    b wbww bwwb wbbwww bw w b  b b bww w bbw wbb  wb
+__,bwb  bww b b w    bw     b bww     wb   b wwb      w  wb   b    
+__,bw www w  bb bwbbbwbb ww   bw b bw bw w    wwwbb w w wwbb  bbb  
+__,b  b   b    b   b w    w bwb     bww    w ww    b wwb   w    b  
+__,bw   wbbb    bbbbbb   bbbwww w ww w  ww   ww  wbbbb bw  bwbwwww 
+__,b w wwbbb w bwwbw  w wbwbb bww     b  w   b    wwwbbwbb b bbwwbw
+__,bb  bwwwbbwbw b b wwwwwwwwbww      wb     bb w  wbwbb b    wbbbb
+__,bbw wbbbw wbww w   bw b  wwb  b   wwbb b b w ww  wbbbb ww  bww b
+__,bb ww b w b wb   w w   wb bbb bw b ww   w ww bbbb www  bwbwbbwwb
+__,b     bb wb bb wbw bw  wwbwww b b bw   bbb  wwww bb  wwbwww  b  
+__,b  b   bw w bw bwb b  bwbwwwbb   ww w wb  w w wbbbwb bwwwb bw b 
+__,bwwwbbbb  w   ww   b   ww bbbbbw bbbww wwb   w b wwb bwb  bww   
+__,bb w bwb  w  wb bb w    b  b w bbwb wb bwwbwwww wb  wbwbwbw w  b
+__,b  bb bbb wbw b  wb  www b w  b  wwbwb w b   wwwbw wwb b b wbwbw
+__,bww bww   ww   bb b w wb bb  wbw wwwwb w  wb bbwbb b bw b bwwb  
+__,bbw  b   b w b bwb  w  ww  b wb  w  wbww  b   b ww w bwwb    bb 
+__,bwb w bwb wb wbw wb bb w bwbbwb   wbww bb wwbw   b  wwb    wb w 
+__,bwbwb  b   bwbb wbwbbw b bw bb  bww w   w b   b ww wbww ww wbb w
+__,b  bww  wb  b bwbbw wbw bb  w  ww  bbw w   bw b  bbbwbw bwww bww
+__,b bbwwwb   ww  b wbbw   b    bbb  ww b wb bwb bwwwb bbbww www w 
+__,b    bbb  b bwb bw b     ww bbwwwwwww  wwbb  w  bwb  bwb   wwb  
+__,bwbw w wb  bwb    bw w bb wwwbwb bbwbw      w b w wbbwwwwb b b b
+__,b bww b  b wbwb  w bwwww  bww www   bb    wbbbwwbw b wb  bbwbb  
+__,bbbb  bwbbw     bbb w  wb b w wwwwbwbbbbw w  ww b w ww b wwb  w 
+__,bwb w     bww b      bwbbwwwb  wb wwwb  wbbwbbwb  wbw b  b  wwb 
+__,bbwwb    b  w bw b   w bb bw  wwww  bbb wwbwbwbwww bw w w b bbb 
+__,b w   bbbw bw bb w wbb  wwwbw wbw  bb   b  b b wbb  wwwwbw  wbww
+__,b b  wwbbw  w wwbbw bb    ww   bbbb b bwww b ww w bwbww  wb wbb 
+__,bwbbb w bb b wb wwb wbwb wb w wb  w b  w    w bwbbb wwwww  w bb 
+__,bbbw wb  b ww wb www b     ww b wbbbbbbwbwbwww     b  bb bww  ww
+__,bw  ww b b b wb w b bb w wb   w bbw  wbwbw  wb w  bwb wb   bww  
+__,b bb wb w wbwbbb b  bw bbbb  w b    w wbbww  bwww  w w wb  wwbww
+__,b wb      ww    bw  w wb    ww bbw bw b wbw      b    w  bbbbbw 
+__,bw  wwb wwbbw b w  bw ww wb   bbb  wbb w bb wbww  b    bbwww bwb
+__,b bwb w   b ww wwww bbw   wbw b w   b  wwb w wb  b wbbbbbbw wbbw
+__,b   bwwb bb  ww b w w b bbbbwbbw    ww  bbb bwbwb bw www  ww w w
+__,b   wwb ww w wbwbb b  w bb b  bw b w bbb  wbwbwbww  wbbwbw  w  w
+__,bwwbwbb  bbb b    b  wbw   w b  ww bb ww w bw bw w w wwbbbww wbb
+__,bwwbwb w   b w bb    www bw bwwb  wb wbbbbb   bbw ww  wwbb wwb  
+__,b bbww w   w wb  bbw bwwbb ww bww  b    wb  w  bwbwbbbw  www bbb
+__,bw  w   w  bww w w b bbww bw bwb wbbbw   bw wwbwb  b wb  bbwbw b
+__,bbww     bbwww  bwb  w w w bb  bwbwbwbbb b  w wbww      wbwbbbww
+__,b b   wwb  wwb bww  b bw b  wbw    bbb  w  bbwb  w bwwb bwb  www
+__,b   b wb w b  ww  wwb    bb w b    wbb  b    w b   wwwwwb bw   b
+__,bw bw wb  b  wbwbbb b wwb bwbbb wwww wb  wb wbb wb  w   w  b ww 
+__,bwbw wwbw  b w  b   bww  wb wbwbb  w wb b  ww wbb wbb b bbw w bw
+__,b b b  w  bbb  b   bwww  bb bwwwbw bb  www  bw w bbwwww  b bwwwb
+__,bw   ww b wbb bb b w wwwwwb b ww  ww bwwbb  bbw  wwbb b  b  bb w
+__,b b w b  w  bbbw bw wbw  b b  wwwwwbwwwwwbbbb   b w b w bb bw  w
+__,b    bb bbwwwbwwbwbbw    b b  bww  w bw  w  b wwbbwbwbw wb bww  
+__,b  w  b wbb wbw  bbbb  wwbb w  wb w wbb  bwbww    wbwbbw wbw w w
+__,bbww bwwww wb bwb  bwbw  b wb  b  w bwb bw  b wbww    bbwb  w wb
+__,bbb   w bwwwb   bbwbb w  w  wwbbwbw   b b wbw bb     wwwwwbbbw w
+__,bw   bw  w wbbwb bbbwbwwbbb   bb ww   wb b ww ww  w   bww bwbw b
+__,b  w bbb wwwwb bwwwbw  w ww  b ww   wb w b bb bwwbb wbwb  bb b  
+__,b  bwwwbwb     w  wb b b  b  w    wbw b  w w   bw ww b  bwwbb b 
+__,bwbw  ww b   b ww  bb w bw bb  wbwww bbw wb bbwwbwwb b    bb w w
+__,bbwwb wwbwbw   wbwb  w w wbbwbwb  b   w bw b  wbw bb  b w   wbwb
+__,b bwbbwbw  b  w  b w  wbw  wwbbb b  b  wbww wbw wbw wb b  bbw ww
+__,bwbwbw wb b  bw bww  bw wb bwww bb bwwwb  wbw bw w bw     b  b b
+__,bbbwww w  w  bbw b   bwwb b b  bw   wbb www bbwbbw b b w  wwbww 
+__,b wb wwwbbw wb bwbbb ww bwb b bb b  b  www www        wwb b bbww
+__,bw bbw   b wwww wwbbwb  bb ww w  bbbb w wbbbb   ww w  bb ww   bw
+__,b   bw b wb ww   b wbw  bww b wb w   w  b  wbwbw         bwb  b 
+__,b    bw  w bb b bwb     b w  w  b wbw w b w     b  wbb w www   b
+__,bbbb wwbbwbb  w   bw w   b   bbww wbbbw bww b wwwwb  bw wwwb    
+__,bw b bwwbwbwww      www  ww bw  w  bbb  bbbb  b b  wb bwwbwbww b
+__,bbw wbbbb bb  wbw  w  w wwwbb   b  wwwbb   wwbwwbb w   w  b bbww
+__,b  b bw wbw b  wbb    w bbwwbb wb bwb wwwb w bwwb w  b  w  wwwbb
+__,b w  wbb bbw bww w  b  bwb wwbw bwwbbbbbw  b ww    b    bbwwww  
+__,b w wwbwbbw w  b  wwwbwb  w bbw b bw   wb b bwbw b w  bbw  bbww 
+__,bbw wb  bw bbbwb www   ww b  bbw ww w w bwbwbbb    bbw b w  wbw 
+__,bwb bwbb  w b ww   wbbw bbwwbwb b bbw   wwwww      bw wb bw   b 
+__,b  wwb bbwb wwbw bbb w ww  bw  ww bwbb  w wwww bb  bw   bbb w b 
+__,bb w  w ww  bbbbb   bww  bbwwwbbww    b b b bwwwwbw wbww  wb  b 
+__,bbw    b          b w bw b  www b  wb  b   b     b b      wwwww 
+__,bww   w  wbww bb  ww ww b  b b  wbb bwbb bb wwbwwb   bb wwbwbw  
+__,b   b bwbwb bw bw  b wwwww w wwbbw bbw  b  w w  bb    wb  bw  b 
+__,bwbwbw  bwwb  w b www   w bbbbbbbw wb    w bwww    bbb  bbww w w
+__,b b bwwbwwww w    bw wwbb  w b w  w  b wbbw bb  bb bwbb bb  wwww
+__,b wb w w w  bw ww   wbbb  www ww wbbw wwbbbbbbb  ww    b  bbb wb
+__,bw wwbbwb    w   bbwwwb bbw bww wbbbwwwbw   bww  w w b bb b b   
+__,b  bwb   wb w bbwwb b   bbwwwbw b w bw w  bb bbw bbww wbwwww    
+__,b  w w  b w w bb b ww w    bbbbb  wb bb   b bw  b bw w  ww w  ww
+__,b  b  w  wb wwb  b    wwbww bb bw wbbbb   wbwwbww bwbbww wbb  w 
+__,bww  bwww    bwwbw wwbbbw bbww ww   b  wwbbb  b b   bb b b  wwbw
+__,bbw bwb bbw b w   wb b w b bbw b bwb    wwwwbwwbww  ww b  b wbw 
+__,b wb wb wbw  bb b    b b wbww    wbwbwbbw  bwbwwb wwww bb w w b 
+__,bbbw bb  w wb wbbbbbww wbbb  b bww wwwwwwb  bb  w    w      w w 
+__,b  wb  ww w   wb  bb wbbb bbb    wwww b wbwwbww bbw wb  b ww bbw
+__,bb b bb b wbwbwb wwwwbww bbww bw bbww  wb w  bbw     w   ww b b 
+__,bb b  b  w w bbw bwbbwwbw bwwb   w bbb ww wwwb wb   bbw   wb w w
+__,bw  w bbb b b   bw  bwb b  www    www b  wbbwb b wbwbwwb bwwb ww
+__,bbbw   w  wwwwb w b wbbb    wbbbbb wb  w  ww bwww   bbb bw w bww
+__,bbb bb w   b w   bw bb  wwwww  b w    ww w wwbbb    ww bwb bb bw
+__,bb bb b   bbbw    b  w wbwwb  w bw  bbw w w bbwww b ww wwwwbbw b
+__,bb  bw wwbwwbb bw  ww  w bbww  w  b  bwbw w   www wb bbb   bbbbw
+__,b  b    bwbw  bbwbwww  wwbw  bwbb  bwwb  w w b wbb w w ww b bbbw
+__,b  b w  w  bbwww  bw  b www     bwbbwb b bw wbb wbb wbb wwbwwb w
+__,b  bb       b bbw bw b  b b b   wwww b b  w   bw wwwww  wb     w
+__,bwwww wbwwb bbb bb ww bbbww  w  b bw b bbw w ww   b  w b w wb b 
+__,bbwbb   bbwbwb  wwwwbwb bww   w wb ww w  wb   bwbw  b bw b  bb w
+__,b w b b bw bw wwbb b   w wbbw  wb  b bww wbwwww wbb bb  bwww b  
+__,b b bbw bwbwb  wbbw w   bbw b b bw  bwwww  wb   b  www bw  bw   
+__,bwb bb wwbwbwb   w bww b  w wbbb w bbw wb  b  b w  w wbww bb w w
+__,b b b w   b bwwbbwwbbbwww   w  ww   bw   wbbw  w bb bw wbwwbbwb 
+__,bwww b w w bw w bb b bw wb w   b  wbb bbb bbbwwbbw  wwww  b  w w
+__,bw b wbb wbw bw  w bwbbbb   b w wbwbwww   wb   bbw bb b  www  ww
+__,b w w wb   bwbb  w  b  b  wb ww  wb w   bb   b w bw w   b   w b 
+__,bb  bb  bbb wb wbb b wb wb   w w ww   b bw wwbbbwwwb ww b w w ww
+__,b b  ww bbw bb w bw    w  b wb wwbwb b   wbw  bbw wb wbwbbbw www
+__,bwbbwbb  wb   bb bbww wwww w  b     wb       w bbwbb  ww     bww
+__,bw wb  bww w w   w bww  b wb wb b b ww ww  bw  bbwwbbwbb bbw bb 
+__,bwbbwbb w bbbw w    w bwwbw w      bb  wbbwbwww   ww wbb wb wb b
+__,b  w bwbwbbww  ww w    b wbbwbbbbw w bb  b w   wb wwwbw b wbw b 
+__,bwbb bbw wbw  wbw b bw b w   w bwwww wbbw   bb wwb   bbb  w ww b
+__,b w bw wb wbwwb  b    www b b ww  w  bbwb  b bbbb  wbw wwbbwwb w
+__,bww    w   w bb b   b  b b  b  w  b  bw  bb ww   b  w    w w ww 
+__,bw   ww w  wwb  bw      bbwwbb w  bw    bbb w     b  b w      bw
+__,b b w b bbwbb wwww   w bbwb bw    w  b w bwbw w w  wbb b bwwwwbb
+__,bbbwwbwwbb w  b bbww     b w wbb wbbw w bb ww b w w bbb w w   ww
+__,bwbww wb   bw w wbw    wb  wbbw ww wb b  wbbww b  bbw wwb bb bb 
+__,bb bww  bbbw  b wb  bwb w  ww b bw b    bb wbw wwwwb  bwbw wwb w
+__,b  bwbwwb    wb bw  bw   wbw  bbw bwbb  bw  ww bwbwbb wwbw   wwb
+__,b bwb     b  w wb   w bw   w  w   wbb   bw w b      b    w   b w
+__,b  w w  b wwb wbwb w bwbbbbbw  wbwb w b bb   bwwwwb ww    bwb  w
+__,bw  b  b w       w wwwww  b    b      wb bbb wbw w w w b b   bb 
+__,bbb w wwbbb bww  bbbw   wbw b ww wwwb  w wwwbw bbb b   w  wb   b
+__,b  bwbww wwwbbb  b    wbbwbb bbw wb www  bw bww  w  ww b bb b w 
+__,bb b b bwwb   ww   ww w bwbb wb wbbbwww w     wbw wwbbbbw wb b  
+__,b wb bbwww ww wbb   ww  w  w b bw    wwwbbw b b bbbb bww bbw  bw
+__,b w  wb w bww wb   b w  b  b ww bw b  wwb bbw  bbwb   bwb  wwb  
+__,b bw  w   wbw   b b wbwbbwb   bb bwwb  wwwb wwbw w bwwb b bww b 
+__,bbbwbbbbbbw b  b w  wwbbwb  w  wbw w ww bbbb  ww ww bw  w  w   w
+__,bw   wbb wwb  wb  w w  b w w  bww wwbbb w b wwbb  wbb wbbw bb wb
+__,b wbw  wbw wbbbb   b   bww    bw b wb bww b b  b ww wwbwwww bwbb
+__,bbbb  w    b ww bw  ww  w    w w b wbw bw    ww b      b   b bb 
+__,bbwwwww wb     bw bww   bw    b  ww b  b w    w b bb b bww wbbb 
+__,bb www bbbww   ww b b  www b bw w bbww bwwbbbb  bw  b w  ww bb  
+__,bwwwbbb  www b ww bbw w w  bbw w bbw   bbw wb w  b bbwwb  wb b  
+__,b bb     b bw  bww b  ww wbbbw w b bwb bww   wwww   bwbbw w b b 
+__,b wwbw wwb  b    bw bb w  bbwbb wb bw wwwb    b bbbb wb w wwwww 
+__,bwbw bw b bwwwb bw  b www  w  wwb b  w bbbb   ww wbbwb  b   bwbw
+__,b  wb ww  bw   ww   b     bbbw   w b  wb bb  bw  b  wwwwb b   wb
+__,b    ww wwbbwb  wbw b b b wwwbwbw  ww bb b     b  wb   bbbww bw 
+__,b wbwbb  bwb b w  wwbb   wwwww w b wwwb b  bbw   bb wwwbb  bb w 
+__,bbw wbb  wwb  w  w  b   w  b w   wb b b  ww  bb      wbw     bwb
+__,b ww wbbw wbwbb  bb bwwb w   wwbwbw   w wbwb b   bbb   wb w  bww
+__,b wbbb ww bw bbbw bbb ww bwbwb  b  b b  w   wwbw b  ww  w  bwwww
+__,b bbbb wwbwbbw w ww  b    w b bbwb wwb w   bbw w b bwww w  wb wb
+__,bb bb      b       b    w bb    w  b b  w w  b w  w   wb wwbww w
+__,bb wbbbw bww  b b  wbbbb  wb  bww  w wwbww  bww wbww   bbb w w  
+__,b  wbbbb b  b   bwwb ww  b   wwww   bbbwbbw bwbw wwwb w  ww wbb 
+__,bw w bwwwbw b  bwwbb    w bbw   b ww bb w   wbbw  wbbw w  bbbwwb
+__,bbw    bbwb  bwww wbwwwb b b w wb bww bw  w bb  bw b bwbwb  w w 
+__,bbwwbww  b  bwb  bbw wwwbw   b w bw  wwbwb   bb wb w  bwww  b bb
+__,bwb    b wwbbbwwb  wbw bb wwwbwwbwww      bwb b b   bwwwbb w  b 
+__,b b  w wb bw  bwb  bw    bwbb bw wb  wwwbw bw b wbww bw w bw bbw
+__,b  w   bbb w ww   bwwww w wwb bbw wb w bbw   b b bwbwbw wbbwbb  
+__,bbbw  b w w w  bw  bwbwww bbbw b  bb w wwbw    wwbb  w  bb wwbwb
+__,bww bb  bb bb ww  b ww wwb bbb b  wbwb  ww  ww b www w   ww bbbb
+__,b w bb www   b b     bw   b  b    bw b b  wbw w b  wwww w   wbbb
+__,bbwwwbb bb  wb w    bwbbb  bbb  wbwbw b b ww  wwb  ww  w wbw w w
+__,bbw w    wbb b w b  bwww wbbw b ww www w  bb b    b bww wwbbbbwb
+__,bwbww bww  bwwb  w   w  bw w  bw bbwb w bwbw bwbbw b   b  b b   
+__,b  b b  wbww wwww wb w  bb ww w  bbw bwb ww b b   w   bw b bb b 
+__,bb  ww      ww    bw  b bw wb   w   b b    bb wwwb  b w w  bbwb 
+__,b wwb  wbwbw bb bwb wwbbbwww     w bbw  w  b w wbwb wwb b b   wb
+__,b wbw        wbwbbbbb    bbw  w    w  b      wb w  www  b   bbww
+__,bbb   wbw    wbbwb   wbbwbb  bb b w   w   wwww wbb w wwwbbwwb bw
+__,bwwww bbbbwww     wbw  wb      wbbw   wbw   wbbbbww b wwb bbw bb
+__,b wwbb b b    w   w  wb wwbbb wb wwwbww bbb  bw   wbbw  b bbwwww
+__,b bbw w w b wwwww b w  b  b ww    b  w     b  wbw    b b b b  b 
+__,bwbwbbw b  b wwb b  bww b bww  bbwb w   b www ww  bw bbwb b ww  
+__,bww   wbw  b b   wb bbbbw   b w b  wwbwwwbww ww wbb bb bbw ww  b
+__,b wb b ww wwwbb   bbwbwb  wb wwb  bwb wbbw w b ww w  bwb   bwb  
+__,b     b w w  w  bbbbw w bw w ww w bbbbbw wbw   w   b  b  w  bb w
+__,bw  w w bw bb bwb wbww w bwwwbww wb bbw  bbwb bbw    wbb   w b  
+__,bbwwwbwbbb   w b w  b w w  w  b w w w wwwb wbb bbb bwbw b   bbww
+__,b  w wwwbb wbbb   www  wwbwb b  bwbb w  ww w bbbwb   w wbbb  b w
+__,b wb b bw bbw    wwbbw bbw b  wb  w  www  b bww w bw bbb ww wwbb
+__,bw wwb b bbb w   b bbbwbwbwbww b w  b bwww wb  b  w ww   w  wwbb
+__,bb wwb wbbw w   ww ww   bb ww   bw ww b bbbbw  bw  bbwb w bwwbb 
+__,b  wb   bbbw b  bbbww  wb  wwb      b    b w  bw w wwwww b wb   
+__,b w bwwww w w bbwb b   b  bw ww    b b  b w b   wbww bb bbwb  w 
+__,b w  w b wbw  bbwb ww bbb wwbw bb  wwbww wwbbwwb b  w   bw   bb 
+__,bwww bw wb wbwww  bww b  b wb bb bw  b b  w bww  bww bbbwb    wb
+__,bwb  b  w b   wwwwwwww wwbbbw   bwwwbw wb b  wb b  b  bb bw b bb
+__,b b     w wb b   w  b       wb wbb b    b  b bww  ww wbbwwwwwbwb
+__,bbwwwbbwwwb bww  w wbwb    wbwb wb   w bw  wb  bbw w  b b bwb b 
+__,b bwbw  wbww    bwb  bbb   wwbwb     wbbb wbw bwbbbbwww w w w  w
+__,b  b    wwbwb wb b   w w bbb  w bbbwwbb wb wwwbwb   wbw bbwww w 
+__,bwww    bww  bbbwwbww  wwb b b bw w bbbbb wwbb wbw b  w    w  bw
+__,b  bb   bwbbbwww  ww bwwb bww w b  bb w bbb   bww     bwwwb bwww
+__,bw wwb w bwwbb  wwwbw  b w w      bw  b   wwbww bbwwbb wbb bbbb 
+__,b bww  w w wbbbwbwwb bb b  w  w   w b  w b ww  bbbbw w bbwb wwbw
+__,b bbw  wb w bbwbw  w   w w bb ww bww wbb ww  bwww b bw b bwbbb  
+__,b  ww wwb bw bw   ww b   w wbwbwbb b bbbbww bwb  bw w b bbw ww  
+__,b b b  b  wwwwbw  bbww w w   bw b wbww  b  b   bwb bwbbwbwbw wbw
+__,bb ww b wb ww  w w b bb bb bw    w  w wwwbbw b w wb bwbb w bbwbw
+__,b  b w  wbb w b wwb    b bw wwwwwbbb bb  wbw w wwbb bb  bbww ww 
+__,bwwbb  b bww b bbb  b bw wbww   wb wwwbw wb b  bwb  w w w wb w b
+__,b   ww wbw b  bb  b bww wwbw  wwbwwbbwb wwbw  b b  w bb   wwbb b
+__,bbb wwbbbbbbw wb b  b w w  w b b    w wwwww bwww bbww  ww  b b b
+__,bw bbbwwb b wbw b   wb bwwwbb  b w   bb www bbbwb  ww  w bwww   
+__,bb  ww  wwww bwwbb b   wb wb       wbwwbbbbbw bbwbb b bw www   w
+__,bbbw wbbb b b ww   w        ww bbbwbbbw wwbbwwwb  w b  bwb  wwww
+__,b bwww w wb wb bbwb  bwbbbww bw  b    ww     b  bwwbbwwb w w bwb
+__,bw w wbw  bbbb bwbwbbbwbw bb  bw  wbb  wb wwwb  ww      b w ww w
+__,bw  wbb wb    wbwwww  bb  wbwbwbbw  bbww w  bwbbwb   b bw  bw  w
+__,bwb    w bw b  w bbww bbbwb ww b  www   wbb  wbbb  wwww  wbb bbw
+__,bb w    wbb  wwbw bwwwwww w bbw bbb b bbwb  w b  wb      w w   b
+__,b      bww bwwb wb bww     bw   w  b   b  bbb  w      w  b  ww b
+__,b w wbb bb www bbbb   bww   bw bbb ww wbww  wb   wwww  bwb  wb b
+__,bwb bwbwww b   b bw w bwb bb  bw  w    b b wbw b b ww wbwww bbww
+__,b bb ww b wbwwwb w wwww b  bbbw    wbbww  b bw b   bb wbwbw   wb
+__,bwwww w bbbwb  w  ww bb  w bw  b wbw wbb bwb b b wbw     bw wbbw
+__,b  wwb bw bb wbb  w  bw  wbw bwbb wb   wwbb w b wbw  wbwb ww  wb
+__,bwbb w  wwwb bbbb   bwb w  wbbwww bwwbbbb b  w b w ww    w  wbw 
+__,b bbwwwbbw wwbb wwbwbb    ww  w   w bww  bb  wb   bwww  bbwb  bb
+__,bwb ww  b bb  b  bw  b wbwbwb w w bw wwbww  w wb b b   w wbwwbbb
+__,bwbww  w bww    wbbbw wwb bbbww bwbb  b  w bww wb     b bww w bb
+__,bw  bwwww  www ww  bw bw ww b b wbb  bbw bbw   bw b wbbbbb  wb  
+__,bb wb wbbwbwbw bww b    w   wbbb b bb b ww wwb w bwb w   ww ww b
+__,bbw   bbb  bb wwb b w bwwb w www   b w www b b wwwwwbb  w  bb bb
+__,b wb b wb  w bbb www b bbbwb ww ww ww    b  bw bw bwb wwwb   wbb
+__,bwb    bb b  wb wbwb w  bw  bbb  wbwww   wwb bwb wb  wbwbbww  ww
+__,bwbwwbbb bwb bw w wbw  b b b  wbb www b w ww w ww bwb bb      wb
+__,b w b wwbwbb wwb bbbb bbwbb w bwwww bw b   bw wwb b   w w w    w
+__,b w w  www  bbwbwbbwbw  wb wbb b b  w    w bwwb  w wbbb wb wbwb 
+__,bbb w wwbwbw  w bw b  w w bw ww b b w bb  bwbwww w bw bb b wb b 
+__,b bbw b  wwww wwww  bbbwb w  wb bbb    w wwbw w b  w  bbw wbbbb 
+__,bbbwwwb bbwwwb   w bbbwbbbbw   wbw wwb bw ww w  w  b b   b   w w
+__,bwwb  wbw ww bbb w bwbwb     w   wbbb bbw     b bwb bwwww wb wwb
+__,b wwbbbw ww w wbb bbb b b  bbb wwww bb wwbbww   w b b    ww   ww
+__,b     ww   wbwbww w      wb   b   b w  bbbb  w    bww  b  b b  w
+__,b    bwwww  b  bw b b  bww     bw    b ww  bw       b wb   wbwb 
+__,bw w b bb  bw ww b wbw  bw w   w  bwbbb www  b bwb  wwbw bwwbb b
+__,bwbbbww  w   w b w w  wbbw bbww b  ww   wwb bwbbbw bw w  bbbb w 
+__,bw b bbb w  wb w wwwwb bbbwbww  bw w    w w bw wb bb bww b bw b 
+__,b  w  bwwwb b  w bb w wwb wbwbbb    wbwwbbwwwbw bwb bw    b w  b
+__,bw bwwwww wwbwbbb w   bwbbwb w      bwb bww  b   bw b  bwwbbwb  
+__,bwbwbwb  wwbw  bwwb     ww       wbbw     w   b   bw w  b  b b b
+__,bbwbwwb  w  wwbwbww w wbww b  bb  wb  bbbw    ww wbwbwb  bb  b  
+__,bw wb bw w w  b w wbbbww bbb wbbwbwb w wbwbw  b     w  bwwwb  b 
+__,bw www wbw www bww   b  w bb  bbb b wb   wbw w bww bbbb wbw   bb
+__,b wb   b wbbww b  wwbw  b b bb wbwb w  bwbwbwww  wbww  b    bbww
+__,b wwb www w   b bbbw  b bbb b  bw  bwbwwwb  w bbw  ww  wwwbw  bb
+__,bb wb wwbbww w bbbb    w   bw wbw  b bb b bwwwb w  w  wb w bwwwb
+__,b w wwbbbbb  w bwwb b   w w wwww wb b wb bww  bbbww b w b w bb  
+__,bbb w bbbbbb w w  wbb bbbww    www ww w w   w   w  bwwwbwwbb bb 
+__,b  bbw bwwb wbw  b bw  bbbw b  wbw   w b   w w wbbb www bbwb www
+__,bwwbwbb wb   bw b   w     wbbw bb b   bb  wwww bwb wwbwbbwwb w w
+__,b  w b wwwbbwwbw b  bbwb    wb bw    wbw  bw  bw bwwb bwwwbbbw  
+__,b b w  w  w wbw  wbbww bwwb bbw b w b bb b  bbwwwwwb bwbw   wb  
+__,bww   bw bwbwbww  b bb wbbb b   wbww    bwwwb www   b w b bb wwb
+__,bbbbw  bw bw bw wbb wbb  bww w  bw bww ww  w wbwbb  wb b  bw  w 
+__,bbwbwwwbbb bw  b b b bw  bwb   b ww wb w w w  bw wwwbw bw w   bb
+__,bw w  b wbb wwb b  b w  wb  wwb w      wbwwwwwbbbb  ww   bb  b b
+__,bw      b b  bb  bw bwbw wb b bb        b  wwwwwb     wbww wwbw 
+__,b bwbbbwbw  bw b b bb  bbbwb  b  www     ww bwww ww bb ww  bw ww
+__,b    b    wbbw wwbb wbbwwbww w bw  wb wb w www wbbw b  bbbwb  b 
+__,bwb bw w wbbbb wwb  b www b bbw ww b w   bbbw w  w  wbb   wb wbw
+__,b wwb  wb wbwwb w b wbb bwwb bw   wbw b b   ww  bwb w wb   wbbbw
+__,bw w bb wwwwb bwwbbw bb  b bw  b bwwbw  www bbbw b  w     bwb  w
+__,b bbw   b  bwbw  ww  b wwbbwbbwb w   w  bbbbwbw w b b   w wbwwww
+__,b wbw b    w w wb w b   bwbbb w www bwbb          b bw bw w  wb 
+__,bbb  w  b b bbbw bbw    w w w   bbbw wwwb  w  wwbwwwbw  bbwwbb w
+__,bbb  wb w     bbw    w bw bb wbbb b   wwbwwwbwwb w bw b w wwbwbw
+__,bbb wb w b bw wbwwww  b  wb  wb b w    w ww bb  bw bb bbbwwwb ww
+__,b          b   b         b                        b       wwwww 
+__,bbbw bwwbbwwwb  b  bb w   w bbw b wbwbw b ww bww bw    w wb b  w
+__,bwbwb  bbwww w    ww bw wbbww   bb bbwb w wb wb  b bb w   b  ww 
+__,bb b wbbbw    b  wbw  b      wwb b  b       wbwbbbwwwww     www 
+__,bb w wb  b bw   w bwwbbb w     wbbw  w b bwb wbwb wb wbbwb www w
+__,bwwbwbw wb  bbb wwwb  w   w w    ww wwb w b bbbb bbwbbw b  w bw 
+__,b       b ww b      wb b w b b   bb wbw w bw bww bb  w     w   w
+__,bww  w  b  bbww  b b  wwwbwbw bb wbbwwb bww   bw b  w bwb bb  ww
+__,bbwbww    bbbw wb wwbww bb w wb b  bw bwwb b    wb ww   bwwbw  b
+__,bb bbw bb b  wbb w   w wwbb w  wb  wwwwbw bb bbw w ww wb bbw w  
+__,b www wwwb w wb   bbwbwbw  b bwb      bwbbb  bww   ww wbb wwb bb
+__,b   w  b b wwwwbww b b bwb b wb w wb  bwbwwbwwb wwb b w bb b   w
+__,bbbwb bww w      w w       bw  w  wb wbw bb w wb bw b b ww bb wb
+__,b    w w wwwb b    w ww  ww bbwwwbbb bwb bwb b bwbbwb bbww b w  
+__,bb bbw bww       w  b b w w  b wbwwbw     w     wbbwbwbwwbb wb  
+__,bb bw wbbww wbbwb     b  ww wwwbwb bb wbwb b     b bwwww   bbw w
+__,b wb    wbwbwbb w bw  wwbw wwwbb b w b     wwb   bwwb  wb  b   b
+__,bbw  bbw bwb bb  w w b w   wb wb bwbbw bww w   w  bbwbwwbw wb  w
+__,bbw wb  b b   bbwwww  ww  ww ww ww    bbwbwbb bbbww w b  b bbb w
+__,bww b w w  ww  wwbb wbbb  w b b b wbbbb wb ww w  wwb bw   wb bbw
+__,bbbwwww w  ww wbwb   bbw bbw wb   w b   b  bbwbbw bb   bwww w wb
+__,b wb bwbw  w ww b  wbwb bb  bbwb wwwbbbw  b w  wb  w wwwb b  w b
+__,b   w w bbbwwwbbbb   ww ww w  bbbb w b bw       bwbbb  bwwwww  w
+__,bb  b wb  bbw wwbwwb  wbw b wb  w wwwwwb   wbw ww wbbbb  b bb   
+__,bwwbw  www wb  bb  w   wbbwbbwb  wbw wwb w b bwwbb w   bw   bb b
+__,b wbb  w  bbw wbwww   w ww   bwbbb wbwb w www bb bw b  w  bwbb b
+__,b www bwwbb b  bbw w b bb   w wb bw  w wbw bw     bbbwwww bbwwb 
+__,bbwb bbbbw  w bw  bww bbwbb    w wwwwwwbb   b  wbwww      wwbbb 
+__,b w  bw wwwb wbbwwb bw  b  bb  bw w wwbbbw   b bb w bw  w bwbww 
+__,bbw  wbwbbbwb   wbwb  w bw w  w bb  w bw  w wbbbb  w  wb wbbw ww
+__,bw b   w b  bwb bww www    w wbw  wb b bbbwwb    bbbwbbwwwwb bw 
+__,bw       bw   b b wb bwww www     b w  wbw   bw wb   wb bwbbbbb 
+__,bbb ww wbbwbb w wbbww  wbbb  w b bw w www  bb  bbb w   b  w ww  
+__,b b wb bw bw  bwww  bb ww  bw   wwbwwwbwb wb wb b b b wwbbb  w  
+__,b   bwbww b   wbwbbbb  bwbwbb  w    wb wwww wwwwbb   wb b b w bw
+__,bb b www b bwwwbb   w b     ww b ww    bbw bb bwwbw bwbw b wbbww
+__,b wb  wwwbbbbb    wb w bb   b w  b b w      w    wb     w w   w 
+__,bb b www bbbw  b wbb wbbwwbbb bb w   wwb bbw w     b w wwww  ww 
+__,b w  w wb wwwwwb w bwwbb   bb  w w ww wb  b wb bbbb bw   bbb w  
+__,b wb  bbwb bwww b  w b wb  w bw w bww bb b  w w bb bb wbw  wwwwb
+__,bwbb b bwb  b b  wwwwwbww b wwb  b  w bbwww    b b  w bw  ww b b
+__,bbbwwww  bbw bb  ww bb    wwwwb   wb wbb wwwbw   b b  w bwbbwb  
+__,b   wbb bb wbwb wwb  ww  b bw  wbbwbb w  w wwbw wb w bww  wb b b
+__,bbw  w  bb  w  bb wwwbbw w  bb  wbw  b wbbwbbwbw  w bwb w   wbww
+__,b  b  w    bwwb wwbbbwwbbw  www bbbb b   wb w ww wbw  wbw bw bb 
+__,bb wb bbbbw bww w  bb wwbbw  w bb   wwbbw w  b   w ww ww w wbbb 
+__,bwbb  bbwwbbbww    www   b wwbb  b     bbww w w bbww wwbbbbw  w 
+__,bbwbw  bb w  wwb bbb bw w w bb w b ww    bww   bwbwwbwb bww   bw
+__,bw  bw   wbbb ww b bb bw  wbwb bw  bw w bb  wwwbww ww  wb b bw b
+__,bwb    bb b  b wwwwwb w wwwww  wbbbb    bww ww  b b b  bw w  bbb
+__,bwwbwbbb   b  w   b bbwwwwb  wbw  wb  bww wwwb  wbb  bbbww bw   
+__,bw bwwb w   wwb bwwbbw bb w b bww w bbwwb  bbw b  w   w w bb  bw
+__,bbwbb   ww bwb   wwww  bb ww wwwwbb b     bww  b w bw bbb bbw wb
+__,bw w   wbb bwbww  bbwbbwbbwww w  b wb    wwbb bb bwww w   bwb   
+__,bwwwb  wbwb  b  wbw    b b w ww bbw wwb  b   wbw b  bbb wb w w  
+__,bbb  w bw  wwb bwb w w w b b bb wbbwbb w bwww   wbbbww  ww   b  
+__,b wwb   b b    b bwwbw b w bw     bbww b w b bw   bb wwwbw    ww
+__,bwwb wwb    wwb   bwbbwbwb wbw bw bw    wb  ww b  wbbbb   bwwbw 
+__,b  wbb  wwb bwb b    w wb wb wb   bbbbb bwwb w wbw w  w w w   bw
+__,b  bwb bwwbw  bbbw  bww  bw wb  w  bb b w  wb w bbbwwww  b wwb w
+__,b     bww  bb ww  bww b    ww b  bww  b  bbwbwbbw   bwb w ww b b
+__,bww  wwwwwb bw     w ww b b  wbwbw w b w wb  bw bbbb wb bb bw bb
+__,b     bb wwwww w   b bb  wb   bbb      wbwb  wb  wwb b   w w  w 
+__,b  bbw wb bwb b  bbw  w  wwwwbbbb wb b wwbw w  b  w w w bwwbb w 
+__,b w b w  ww b  ww w  b b b w     b ww        w   b   b     b   b
+__,b   b bbwwwwb   b  ww bwwbw   bwb w bwwww w wwbbb bb wbwbb  b   
+__,bwb b   w bwwb  bwww bb   wbww bb w w  b w  wb wbwwwbb   bwwbb b
+__,bww wwwb  bbbbwb        b ww bwbb   b wwbw  bw wwwbwbwwb w  bb b
+__,bw   b ww bb  b bbbwwwbwbbbw   w w w www bb wbb  bbww w b b  w w
+__,bbwb     w w bw  bw wwb  w b bwwb  b  w bww wbb bw w bb bbwwwwbb
+__,b w bbw   wwb wb b  bwbwww     wbbwbbwwb ww bbbw    b wwbw b  wb
+__,b   b  b   b  w bwwwb   bw   wwwww wb    wbwb bb wb bw      b   
+__,bbb w b ww  bwwbw  ww bw wwbw  b  wb bbb wbwwbw wb   b bwb  bw  
+__,b bw bbw b  wb b w  w b  wwb wwbbw    bbwbwwbwbb  wbb w wwwwb   
+__,b  b    wb     ww    w bw  w    w w    bwb       bbbw bbbwbwb ww
+__,bw  w   wwwbb   b bwwwbbb b   bbbb www wbww bw w w b  b bw bbw w
+__,b  w  b bw   b bwwbw wwwwbb bw bb w  wbw  w  bw wwb wbb bbw w bb
+__,b   bb  wbbw b ww wb wbwbb b bbw w bwwww w bb  w w w w  bbwwb b 
+__,bbb  b bww ww ww bwbbw bwwww   w   b wbbw  wb w  bbbwbwb b  w  b
+__,b   b w w  wwb bwbb  wbbb wb bbb  b    w b wwb wwbwwww  bwb wbww
+__,bwbbww bwbwb b w bwwbw  w wwbw w    bb bbwww   bb  b w  bbw   bw
+__,b  www b      b w  bwb  bb  bwb  wwbw b w w w  w b w b   b   b  
+__,bw  bww  bw  wwwwbwb   wbwwbw wb   bb wbb bbwwbwbw  b   b bw   b
+__,bwww b    bbw wbb wwwwbb b    wbbb   wwbwb ww b  wwbb  b b b www
+__,b wbwb w  b   wb b wbbb  wb wwb wb  bwbbb w bb     wwbbwwww ww w
+__,bw ww  bwwb w   bwwwbbww   wwbw  bwb  wbbbwb bw  bb ww    bbb b 
+__,bww w      b wwwwbww  bbb bwbw wwwwb   ww wb  bb  bb  b bbwbbw b
+__,bb  b wb wb    w    w wwb w bb wb   b bw     w w  wb w     b bw 
+__,bbbb  wwb w w b  wwbw  ww    w bbb  bbw ww  w wbbbw w wbbwb  bwb
+__,bbb b  bwwbb  bb w w wwbwb    w  b  bbb wb  wwb    wbwwbwwwb www
+__,b w w wb ww   w bbw   b bbbw bww  bw wbwbb   bw   wbbbwbbw bwww 
+__,bwwbw wbww wbbbwbwb  bbwb  bwbwww   b  bbw wbw wbwb b       w   
+__,b   bbw ww  wbw wbwbwbb  wwbbbwb wbwb    bbwbw  wbw    w  bww b 
+__,bwbb   bwwbwbb  w  wwbbww   wb bww bw bwb  b w wb bwb  b w bw w 
+__,bw     wbwwbw b w  ww wbwbw  w bw b bbbww  bb  bb wbwbww  wb  bb
+__,bb w w  w wbww  w wbw w wb wbbw  bb bwbb ww  bb  wbww  bb  wbb b
+__,bb b ww   b wbb b ww b b   wb b wbw  wbbwbwb ww www wbwb ww  b b
+__,b  b  ww wwbbb bww   bw  w bb www bb b  wb w wwb wbb bw bbwbw  w
+__,bw b wb ww   bw  bb bwbw  wwwbbbwwb b bbw w bw w wwb  wwb b  b  
+__,bwwb w      wbbbbbbww  bwb bwbww  w www    wbw b w bbb  w bbwwb 
+__,bbb  b wbb wb  bw bwbbb w ww b bwb w b w bb  w wwb wb www w w w 
+__,b bbw wb   w bw   w wwwww bbwbbb wbw bwb bwww  bbbw  b   w  bwb 
+__,bb b  wb bwwb   bwbb wwbw bbwww ww    bw b bww bwb b   b bw ww w
+__,bw b bbwwbb  bb wwb b   b bbwb wbww   ww  ww w wbb w   bww  wbwb
+__,bb  bww bbb bwwwb bb w wb  bw bb  bww wwwwbb w b wb  w w  w  wb 
+__,bw  b bbb ww b b  bww wwwb bww   bbw  b www b w   b b bbw wwwbwb
+__,bww wbb    b w    bw  wwwb   bbbwbw b bww bwb bw wbbbw bw ww  bw
+__,b wbb  bb  bbbw  w www wwwww w b  bbwb     bwb bb w b wwwbw  bwb
+__,bb b  bw wb  bwbwwbwww bbb  ww bbb w  ww  b ww  b   b  ww wbbw  
+__,bw b    www b  b   bwbwb bw  bb  wb  wwbb  ww  b   w wb      wb 
+__,bwb  bwwbwbbb  w w wbbbwbw bwbwb b ww     w   w wwbb b bbw w  w 
+__,bb ww w bbwbw  wwww   b  b bw  bwb wwbw  bb bwb  w wwb bwbbb w  
+__,bbbw  b b   w  bb bb   bb wwwwbb b  wwbww bw wbww bwwwb  wbw   w
+__,b    b  bw             w bbb ww   bwbwb     bwbbw  w w bww   w  
+__,b bb             b      wb wwwww    w   w b  b  wb    bw      b 
+__,bb b ww bwwb b b  b  b  w   ww ww wb  bwwww  bbbbw bbw  w bbwwbw
+__,bwbb wbwbbwbb  wwww  wbb   b  w wbw    bw wwb   b bwbwwwb wb b  
+__,bbbww   w  bbb wwb bwwbbb ww w b  w  b b  wwwwb b wb  b w bw wwb
+__,b   bbbbwww  bwb   wbw bwbww b b  wb b w  w ww b  wwb www  wbbbb
+__,b bb   w w wb  bwbbw    w wbbwwb bb    wb ww bbbbbwb  w wwwbwww 
+__,bbbwbwb  ww  ww bbbb bwwbww   bw  ww w  bwwbwb   wbw bb bbw     
+__,bw bw bbw bbw   w bww bwbbwbww   b w b wwbw  w  b wb bb bb ww w 
+__,bw bw b ww w w  bw b  b w bbbww w  w w bbb bbw  b b www bb bww  
+__,bwbbbwbb ww   wbwbb     bb bwb b bwbw b ww bbw w ww   wb w  ww w
+__,bww www b b bbw bwb   bb bb bwwwwwb   wwwbww bb b      bww bbw  
+__,b wbww wbwbbb  wwbww b bbwb         w  bww wbbbww   bwbb b b www
+__,bwb wwbb b bbww bwbwwbbw    b  b  w w w  wb wb w bwb   w w bbwbw
+__,b w bwbbb b ww  wb  bb ww b b  bw b w   wwb b www  wbb   w w bw 
+__,bbbbb  wb wb  w       ww    ww     w    bbbb w wb w    w bw  b  
+__,b wwwbwb wwb   w  bbw    w bw  b wb b bbw wbwb  w b   b wb w  b 
+__,bbwb ww  bww  wwwwbbbw b    bbw b   wwwbwwbbwbb     b ww wb  b b
+__,b b   wb  b  wwbwwbwbbbww wbb b bb w  b  wbw b w   ww wbwb wbww 
+__,b  b  bwbb wwwbb w  w b b  w ww    wbwbw   wb  b  bwbbw b ww w b
+__,bbbb w b  b    wbww bw    bw b w  wwwb bbb wwb w bwbwwb wwbww b 
+__,b w   w  bw  bwbbbbbw w bwww b w wb bwb b bwb bbww   ww wb  wwb 
+__,bw w wbww w w  wbw  wb  bbw bw wbwbwwbwb bbw  b  bbwbw b  b    b
+__,bbbbw wb   b  w w wbw b   wwbwwb  bb bbbw ww ww  bwb bww wwb   b
+__,b w b wb bb bw    wwbw bbw  b wb  w w wbwb ww bw bww bb bbw bw w
+__,bwbw bwbw bw w   b    b ww  b wbb w b  b  www wwbwbb wb w wbbbwb
+__,bwbwbbbw bwb    ww bww   bw bbw   bbww w w w b  bb b  bbwwbw w w
+__,bb b   wbbw b  b b bwbw bwb wwwbbw   w bbw w w w bb    wwwbbwww 
+__,bw wwb wwbbwbwbww w bw wb b  bb wb     bwbww bw b  wb  bb w   wb
+__,bbbbbbww b b w   w b wb wwbw  wwb wb w bw wbbw w b   wwwwb    bb
+__,b b wbw  w b wwwb bw bb bb  bwwbw www  bw  wbbw  b wb  bwb w  bw
+__,bw  wwwwbwwb b  b b  wwb b     w  wwbbwb b  b ww w  bbwwwbbwbb b
+__,b  bwwwwb wb wbb  bw  w b    wwwbw bbbw w  bw bwbwb b   bw bw wb
+__,b w b wb  b bww w ww bwwbwb wwwww b b  b wwb  w b  bb w bbb  bwb
+__,b w b bw   bbw  bwb  bwbbw wb wb b wwb wwwbwwwwbwb   w    w bbb 
+__,bbbww    b ww     b w w  bw wbwww wb wwwwbb bb  b b bbbww bwbbw 
+__,b bbwwwww w   bb ww w  b  b b  wbwb bww b b wb bbw bw ww bw  bwb
+__,b b w  bbwwb wwb bw   b   w b   wbwbb ww bbbwb   bwbwwwbww w  bw
+__,b  w wb  b   b bw bw   wbw b b  b  bbw   bwwbwbwbw www  b wb   w
+__,bb bwwwbb  b  www  wwwb wbw    b bwbww b  wb b  bb w wb bbbw w w
+__,bwwwb b  w bw wb  w   b b  w ww w  b bwbbb bw  ww bw wbbw bwwbbb
+__,b ww wb wbwb   bb wwww w wbw  w   bb bw w     bb  bwwbbwbb wbbwb
+__,bwbwbb  wwbwb bwbwbbbww     w   bb wbb  bbw  bw www    b w wwbw 
+__,b wb  bbwbbb   w w w  bw   wb  w b ww bwwwwwwwb bbb w bbb bwb w 
+__,bb bww   www w  b b  bwww bw bw bb  wbwwbbwww w  bb   w b b b  b
+__,b wbb  wbwwwwbwww ww bb bw   bwbbbbb ww bb bw w   bw  w w b  b  
+__,bww    b    wwbb wbb bwbb   www wwwbb ww   bwwbb ww  b b bbbw wb
+__,bbw b     ww b b b  wwbb wwbb b ww wwbww wbw b w  wwbw b bwb  bb
+__,b    wb   b   bwbwbwwbw w    b w w b bb   w wbb  bww  b  bwwwb w
+__,b  bwbwww bww bb w wb    b wwwwbbw bbb bbbbww   w  b  bww w  bw 
+__,bbbb b bw     w   b wwbww   ww w bwww wbw bbwbb wbw bwb b bwb w 
+__,b  bwwb   b w  bbw  bwwbb bwbbwwbb wwb www  bww w  w bw b  wb b 
+__,b w w   bbwwbw   b w  wwbwwb b w  www wbwbbbwb wbb w b  bbbw   b
+__,bb    bwbb bw    ww b w bb   b     b  wbwwwww   b  w  b   w  w  
+__,bwbw  bb  ww w  wwb bbb   bbb bwww w   wbww ww w bbb bwb bb ww  
+__,b b    w bbwbbb  wbbwb   ww w w wbbb  wbb  bwwww   wwwb w wb wbb
+__,bw   wb w bwbbww w  w w www bb wb b bb b b bwb bbb bww  wwwbw   
+__,bwwwww  w  wwb wb bw  ww  bw w bb   bw w     bb  bbbb    b b  wb
+__,bbw  bw  w  wbw  wb  www ww bwbbw  ww b b wbbbw bbwwwbbb    b b 
+__,bbw w wbb w   wwwb bb w wb wwbwbbwbbw  bw wb     b   bbwww  b bw
+__,bwb wbb ww w wwwbbb ww b wb ww bwwb  b bwb  w wb b  bbb     wbw 
+__,b www  bb w b   b ww    w w bbb b ww   w    w bb  bb b        ww
+__,b     w  w   w  bw  ww bb w bbbbwwbbbwbbwwb b   wbbwwbwb w bw ww
+__,bb b wbwwwww wbwww   bb   wb  bbb  bb   w  bwb bw bw w bw bbww w
+__,bbbwwwbww w   bbbbb  w wwb  b  wwb w bb   bww bb wbwwbw  b   ww 
+__,b   bwb bb  b    bw b b b w bbbwbwww ww bbww w  wbbwbw wb ww ww 
+__,b wwwwb  bw   bw bw wbw bb   wb   bwww bbw b wbbw bbw w  bbbw w 
+__,bw    b wwww bb bbwb w bbb ww bb b wwbbwb b b  wb w wwwwbw   w  
+__,bwwbww bb    bb w b  b bw wbw wbwb w  bwbbwbbww wb   wwbbw  w   
+__,bbwb     wb wbb  w wbw wwbw b bwwwb b wbbw   wbb wbb w bb  ww  w
+__,b bb b b b    bwb bbww w wwbb w  ww wb    ww bwb wwbbw bwb  wwwb
+__,b www bww bb wb   w  bww   w bw bwbbb  b bb   wwbb bwbw   bwbwww
+__,b  wwb w w bbw  bb wwwb w   wb w ww  b w  b bbbbb wb wbb w wwwbb
+__,bb   w   bw w wbwwbwwbwb  bb wb bwb b  ww b bwbbbw  w  b w  bw w
+__,bbbww ww bb b wb   wwwwbbww    wwbbw wb w bbw   bw w b   bb b wb
+__,bbw b    ww w bw      w  www bbw b bbb bww wbwbb bbb wwbwwwwb  b
+__,bb  bwwwb bb  wwwwwwb b bbw bw     wbwwb ww     wbb wb  bwbb  bw
+__,b   bb      bw bwb b   bww  wb   b    bbb wb ww       wwwwwww b 
+__,bbb bb w b bbwbw b w bbw wwwbw w wb     bbwb     w www b wwwb wb
+__,bwbb bw wbb bw wwbwbw   wwb w b bwb  b wwb  w bww  w bbw b w   b
+__,bbwbbw bbwb w w w ww w w w  b w w  wb   wbb bw bbbwbbbww b w   b
+__,bwbbwbbb bwbbb  w   wwbbw wwbwb  b   bw  w  wwbw ww   ww   wbbb 
+__,bwwb bwb w b wbb wb   w wwwwwww   bbb  w bb b     bwbbw bwbww b 
+__,bb w b   w wbwwbww w w b  bww    bww wb w  b   bb b wb  b     b 
+__,bw   wbwbw b wb   w wbww wb bww b w bwwbb  bw b bwbbw  ww bb  b 
+__,bbwbb  wbb     wbb   w w w  b    wwwwb  w wb wbb  wwbwbbbwbwwbwb
+__,bw  b wb bwwwb  bwwwwb b  w wbb b   b w bb    bwwb bwww bwbw w b
+__,b   bbbbwwwb    w    w  w w wwb  wbbbwbw ww  wb  wbbwb bbbwbwwb 
+__,bbwwbbbb b  wb www bw wwwb  bwb b  w  bwb    bbw wwbwbwb w w    
+__,bbwwbw  b  bb           bw b b wbbbwww bbwwbbwb bwwww b  w wwbww
+__,bbbb   bw w wwb w  bwww  wwbw     b bww bbwbw w wbbww bb  b wb b
+__,b  ww  bbwbb bbwwb wb bbw ww wb b  wwbb    bw ww w  bw wbw w b b
+__,bwb w  wwww  b w b bwwbbwbbwb wbwb  wbb w   bwb bb bbw   w  ww  
+__,bbbb w wb bbwwww b  ww wbw  wb   b   bw bwb bww  bbwbww  wbb  w 
+__,bw  b    w  b w   bbbbb  w bwbwbw wbwbw   b  wbb wbbw  wwwww  b 
+__,bww bbwbww  bbbwwbbwww b  b   bw w bbwwwb  w  wwb w bb   b w   b
+__,bbwww  w ww w w bw  b bbb b  b wbwbw bw   bwb  b   bbb  wbwbwwww
+__,b b   b    b wbbw bw w   bbwbw   w bw bbwbwbbww bbw w  wwwwbw wb
+__,b wbwb  wwbb wwbwbwwb ww b bbb  b bb www w  wb  wb     w bb  wbw
+__,bwwwb w  w wwbbb bbb bww  ww  b wbb wbbw  b  ww  ww  bbbw b w  b
+__,b   wbw bbw bbbww   bw bwb bbbwbwbb w bwbw  ww w w ww  b  w  bw 
+__,bbwbbb bw w  w wb  w wb  bbw b  wb w bwww ww  bbwb bw w w  bw bb
+__,b  w   wbww bwbb w   w bw w b w bb wwbwbw b  b w b bwbb bwwbwbw 
+__,b   wbbwwbbb    w w wwb  w  w  bwbw    bb bbw wbw bw bbbw wbbwww
+__,bb b bwwbwwwbbb  wbw   b  w ww bw   www  bbw b  ww wbwb bb b b w
+__,b bwwbwb   bwb w w wb b   w  w wb w  b wb bbwww b bwww  bb wwbbb
+__,bb wwbww w    ww wbw  bwb  bwbwb  wbwbwb bww b wb  b bw    bb wb
+__,bwwbwwb   b wb bb b     ww  bww bwwbw bbwb wwb w   bb w wwbwb  b
+__,b   w wbwbw w   bbb w bw b  bb  wb wwb   b  ww w w   b b ww  b b
+__,bw bbb   bb wbb w wbbb  wwww wbww w wbwb b w wwbwwbw  bb  b     
+__,b  w bwwwbbw  b bww w bww bbbwbw  b w w  bbb b b wb www   wb w b
+__,bb wb ww wwwbbbw bbb   wb ww w bbwb bb w bb  ww  w b w   w wbb w
+__,bbbw  w bbb bwwwww b    bw w  bbw  wbw  bb b  w w bbwww b  bwwbw
+__,b    bwbwb w wwbbwbw w b bw  bwb bb bw  bwb w  bw   bw wwbb ww w
+__,bwww  b  b bw b     wb bbwbbwwb  b w wbww bbbwwbwww wb      wbwb
+__,b wb  b bwb  bwwwbb    bb  w ww   wb b  wwwwwbw bbw  bb  wwbbw  
+__,bw wwwwb   b bbw  bb  bw b wbbbbww bbb w ww  w  w b  wb wbwwb w 
+__,bbwwwb  bb  bwwwbbwbb  wb bw   bw  bw  wwbbb b b  ww  w www   wb
+__,bwbwwwbwwb  bb bw  wbbb ww www b bwbw w  bwbbwb  w bb w   b     
+__,b w wwb w  wb bbb wbb w w wwwwbbb bw w bwb bbwbb w bb   w    ww 
+__,bw  w ww w b b bbww  b w bb bw  bbw bwwbw  w  ww b w b bwbbw wbb
+__,b  w  b ww   w   bbb     w bbbw   b w w  wwbbww bw   bwbb   b ww
+__,b   bbw    w  wbb w wbbb bw bbbw wbwwwb w bw     wwbwb bwwb ww b
+__,b  b wb w wb   b bbw bbw  bw   w    w bbw wwbw wwbwwwbbww b bbwb
+__,bwb bwb bbw w w    b  www b  wbww  w b ww bwbb  ww b bb bwwbbb w
+__,b wb w b w b bww bbw  w wwww bwb bwwbwwb  w bbb  bw  bb  b wwb  
+__,b w  bb  bwbwb bwbbb bw  w   wbb w wb wwwbww  bbw wbb  w bw  ww 
+__,b ww   b wbbbb wwb bb  wb  w  w b w bwwww bb bwbbww     wwbw bbw
+__,bw wb b wbwwww b   w   bbwb b  wbbb w bwwb   bbwbwww wb wbb w   
+__,b  b w     bw  b  wwb w  www b b w w w   b  bb  bw   w  bbw  b  
+__,b ww w w      bw b      b  b  wwwwb b   bbbw b w  wwwwb  b bwbbb
+__,b  w      ww  wbb  b w   bb w  b bbw  wbw ww  w b  b     wb     
+__,bw   b   bwwbwb w b bwwbw w w bb  w  bbwwb bww bbww b  bw w w bb
+__,bw ww bbwbwb   bww w  w b  wbww  bbww wbbb   bbwbbw   w  b b wbw
+__,bw  bw    w b bwww wbbwbwwwwbb b  wb wwb    b w bwwbbb   bbww  b
+__,bbw bwbbbwbwbbwww bwb w      bb bwbb wbw w wwbbb ww w w     w   
+__,bbb  bwwbw   b  wwb ww b bb   w wwww wbbb b w   bbbw w wb  bbwww
+__,bwwbww b w  b w   wbbb bwwb bbbwbw  wb    bw    wwbw wbw bb  wbw
+__,b ww bw     b wwbbwbwb  wbbwbb  w  w  bb wbw bwbww   b wbw  wbbw
+__,bwbbwbwwbwbw      wbwb w   w  bb ww bw  wbwwb bw wwwb  bb bb   b
+__,bw w bbb      wwb   wbwbbbb  w wwwb  www  b ww   w wb bwbbbbwbbw
+__,bw b wbbbwbbb ww ww wwb  w b     w wb wb b b ww     w  bb       
+__,b w  wbwwwbbw  w wbwbbbb  wb      w w w bbb wbwww  bwb bbb w bw 
+__,b bb w     ww b  w ww ww bwbwwbb wb   bb  w wwbbbbw bb  bwb bwww
+__,b bbw bwwwb wwb b  w wbbw wbw w wwbwbb   b w bbwbwwbwb b        
+__,b wb   wbbwb  b bb     wb wwww  w bb  wwwbb ww ww wb bbb bwwbb w
+__,bww   ww wwwwb wbbb   b  bwwww  w   b  bbbbwwb b b w bbbwb  wb w
+__,b   b w bwb    b b  bwbb bw www b    w b   b  w   b w  w bbwwwww
+__,b  wbww wbb  ww bb  bb  bb   w  w wbbb    wwbw  bwwbw bbbw bwwww
+__,bww  b bwb ww wwwbb  b b  bww  w b   b  bbbw bwwwwb www  bb bbw 
+__,b w  bw  wwbw wb wb b wb ww wbbwbbb  b b  ww w b  wwwb bb wbb w 
+__,b w   bbw bwbwww b bb wwbbb wbbwwb b  w    wb wwbw b w  w bwbw  
+__,bww bb b  ww w   bbw wb b  w  wwwbbb  w   wwwwb b wbb bwwbb bwb 
+__,bw  w b  w  wbb   bw b  w wwb b bw wwb  w  bbwwbw  wb b b   b  w
+__,bb     w   b        b b bb   w  w    ww b    bw b  wwwww     b  
+__,bb b b wbbw  wwb w b  wwb bb  ww  wbwb   bwww b w wwwbb bw  bw b
+__,b w wb bwwbbbb    wwwww     b wwbbw w   b w  bwbbwb  bwb  bb  ww
+__,bbbwbwwbwbb b   wb bb bbw   wwb b w  wwwww  w b  w bb w w  wb bw
+__,bw b b  bw  wb bbwbb   wb     wbw bwww w wb   bwwwb w wwwbbbb bw
+__,bbbwwww    bb   w wwwbw    wwwbbbwbw  bb b  bwwbbb wb w w b   wb
+__,bw  w  ww w w  wbwwwb bw bbbw   bbwww b b bbwwbb  b  ww wb b bb 
+__,bwbbww  bwwb wwww b   bb bw wbbbw bb wbw b   bw wb  bw  bw  w w 
+__,b  b  bww b bbwwbw    wb b www      w   wwbw b b   bbwbwbb  wwbw
+__,b w wwww w  bb ww   b bw b b w b  b    b b  b   w  w   bb w  b w
+__,b bbbw   wwwbwbw w w  wwwb  bbb wwww bbwbb   bbwbbw   w w  b b  
+__,b   bwbw bwbbwb bw b bwwbwbbb ww  bww   w     bwwww bbw bw  b  w
+__,b  bw b b w wbbb b w wwb bw b bwwwww w bww  bwb b bb wb bw   ww 
+__,bww bwwb w   wb   bw wb  b  wbbw www bbbw wwww b bwb  bwb   bb b
+__,bwwbwb  bb b b  wb  b b b w wb bwbww  ww w  bbwww  bbww  wbbww  
+__,bwwbwwb  bbw www bb bbbwwwbwb ww   wb  bb w  w  wb  bbbb ww     
+__,bwb wb  bb wwbb w  w  b w bw b wb wwb  wwwb  wbw bbbw b bwb ww  
+__,bw  w b   ww bb     bwwbbbb wwbwbwwbbw w bwwbw bw  w   bb bw w b
+__,bbb w    b b    wbbwwb b  w w   bw w w    w   w    b   wb    wb 
+__,bbbwww   ww bbwwb bbw    w wbw bww b  b  w b ww w    bbw wbbwbbb
+__,b  b  wb bw w wwbbw b wbwwb   bwbw b bbw wwbbbw  bb   w  w w wwb
+__,bw wbbwb b wbw ww  bb bbw  wb bb  wwwwwww   b bb w   w ww bbbb  
+__,bbww w w b b bw  w wwb b b bwwbwwb bwwbb wb  wwbb w bw b w   b  
+__,b b b   wbbwww w bww  bbw wb ww  bbwww bbwbw wb bb b  ww  b b  w
+__,bww  b bbwwb wbw bwbb bw bbwwbbwwwwbwb bw     wb w   w     b w b
+__,bwb  bww bbbbbw www  ww   bbb w b wwbb  wbb  w  w  wwbw b   b wb
+__,bw w b w w wb wbb w  bb bwb w w w bbw wbwb wwwbbbwb   b    b bww
+__,bbwww bw  bw bw     bbbbw wwbww  bb b w  wwwwww bw bb b  w bbb  
+__,bbbb wbbwbw w w b   wwb  bbbb  b ww wwwwww w b   bww   bbw  w bb
+__,bwwb  ww bb bw  w b  bwbb w b bwb bw   www bwwwb w wwb b  bbb  w
+__,bb b b bb bbw  w  wwww w bwb  wbw b  bw   w wb wbwwwb  b  wwbwbb
+__,bbw  wbwb  www b  bbb wbwb  www b   wwb bbb w w bw   bwb ww  bbw
+__,b ww bb      w bb    w bb  b wwww    w    b ww   b w    bw  bb  
+__,b w wwbw    w wbbb bw ww    b  wb w bb    w  wbb w  b bbw  bwwbb
+__,bwwbw w wb  bb bb bwb bw  bb bwwbb    w   wwbwbbww bw  w   bwww 
+__,bb    wb wbbbbwbw ww w wwb   bwbw ww  bw bwwbb  bbb      bbwwww 
+__,bw   bb  wb bw w b  w    ww wwb   w  wb w bbw      b wbwwbbbbb  
+__,bwbwb b  wbw bb  bwwbbwbbw wwwbw w b  ww  bbw b wb   w   w bb  w
+__,bw  bwww ww bbww   b w    bwbbw bbb w   b  bww   ww b    bwb b b
+__,bwwb b bb    b wwbwb   bwbbw wwbb     w bbwwwb bb  wwww  bwwb  w
+__,b wb w bwb b  bb w   w  wbb  wbwwbwbwwbw    wb   w b bwbwbww bbw
+__,bwbb wb  b w ww  ww bw bw b bw wbbbw   bbb wb bww   w bwww bbw  
+__,bbww w bw  w  bb bwwbbwbbwb    b  wwb www  bwb wb bwbwbbw w     
+__,bb  bbbww   bb ww b bww  ww  www b  wbwb  bwb   b b   bw   bww w
+__,b wbb  bww   bbww w b wbb  w w b ww  bb bbww wwbb w bb w  bbw ww
+__,bbbwbwbww  wb bb wwww  b   bwwb w b bwb w   bww  bwww  bw  b  bb
+__,bb bb b    w bbw  bb wwbw  wwb  w ww  ww   w  b b  wb bww bw bwb
+__,b b  wbbw  w   wbbwwbwbwbwbbwbb  bb     w wwbwb  wbw w www   b b
+__,b wb wwbwwbwbb ww w  b wbww    bb bwb  wbb    b w  wbbbw wbbw w 
+__,b  bbwwb www    w   b wbwb  w bwww b b   bbbb      bw   w   w b 
+__,bbw  wb w  wbw   bbwww  b  w w   b w w     wbw    bbbww bbwbbb  
+__,bbwbb  wwwb bw  www  bb ww bbwb     bb w bbwbww bbwbww       bww
+__,b wwb bw  wwb b b bwwbw bww bbbw    b   bbw wbbb wb  w  ww wbw w
+__,bbbbw   bbb www b w  bw  b bw  bw  w b ww wb wb b w wwbwbw wbw b
+__,bbwww  w   bw w     bwbb w bw bbbbwwbbw b     b  bw  ww w     wb
+__,bw  wb b wwwbww  bb   bww wbbb b w bww bb bb wwb   wb bb  w w ww
+__,b bw  bbbw w  w wwb wbbb  wwww   b w bwbw  wbbb  wbw    wbw bbbw
+__,bbbb www w bb b bb w    bbb  bw  bw ww  bwwbww   wb w  wwwwb bwb
+__,bbb bb wbb w www    bbwbw w  ww bww bwbw  ww bw wbbwb bb b  w   
+__,b  w w wbwb wb    ww bbb    wwbw bwwbb bw b wbww  b wbbbb  bw ww
+__,bb bww  wwbb bw   b  wb b ww w  wb wwbb w bwbw  b w wbbw bbwb  w
+__,bb  wb    wwb bb   w  b bwbb w ww  wbwwbwb w  www bbww bbb wwb b
+__,bww ww w wbb   bww ww       wwwb bbbwwb bw   wbbb w  bbbb bbww b
+__,bb  b   b wwww bw  bb     bwbwb w  w bbbwww  wb   b   b ww w  b 
+__,bwwww b  wbw ww bbwbwwbw w bb    b w    bb wbww     w bwbbb bbwb
+__,b w  b bw w   b  bw  bw wb  bw  wbwbwbw      b      b  b  w    w
+__,bwb  wbbw bwb w b wbbwb   bb bww     w b bwww ww bbwbww  b  b ww
+__,bbwbb w w wb  bbwwbw   b  w bb  bwww ww  w  b w b wbw w bbwbb wb
+__,b  bwbbw b wb bwwb wb wbw  wbb ww wb  bb bww   bw     bwww bwbw 
+__,bwbwbbbw bw w bwb      bbwww bwwbw bb w   w b  w w b w b wwbbb w
+__,b   bwwb  wwb ww  b      b wbw w      wb bbbbb  b w wwwwwb bbw b
+__,b   wbbww wbwwbwbbb  bb bb w w  wbw  www   b wbww wbb wb    bb w
+__,bbb bwb w  w  bwbb   w  bwbwbb bbw ww b wb bww w  b b w  wwwbww 
+__,bwbwbw ww wb bw b wbb  wb  wwb  b ww  wbbb  b  w  ww w bbbwb w b
+__,bb wwb   w  w  wb  wbbbwbw  ww b   bww bbw bb wbwbwbww   bbb ww 
+__,b w wbb   b b   wbbwbw   w w  w wb  ww w bbb wbbbwbwbwbww  wwb b
+__,b w bbwwbbbw  w    b wb bbw bbb w wbbwwwbb w  w   w wbwwb wwb   
+__,b w w b w bbb w  b bbbwwbbb b wwb  w wwwb  bbb   wwwwb  b   wwww
+__,bwwb    ww bwbb b wwwwbbwbww   b b  b   b b w wbbwbw   bb wwwb w
+__,b  b    w ww bw  ww     b wwb www  w  bb bbwwbwb  b   w   bb b b
+__,b wbbbwbwbw  w w b w w  b w b ww  bww  bb bbb w  b bw  wwbbbw ww
+__,b w       ww b b wbbbw  bwbw w bbw wwwbwwwwbbw wwbb bbbbw b     
+__,bwwbwb wbw ww w b  b bbwb wb wb  bw     w bww    bbb  wb bwwb wb
+__,bb bw    w  bwww bbw  w b wbwb wbwbw b b b wbb wwbw wwbwbb   w  
+__,bww b b   wb wbwwwb b wwwb  wbw  wbbw     w bwb   wwbbb wbbwb b 
+__,b  bbb w wb b  wwwbbwbwb  bb w wbww   b   bwbw bbb wwb  ww w  ww
+__,b bww   wwww  b  wbbbwb ww  w   bbwb wbbw bwb  b  wwb wbwb  bwb 
+__,bwww b wbbbb  w wwwbbwb   bb b  wbb w www wbw  wb  bw bw bbw    
+__,bw bwwbwb b wwb w w   bb wwb  bw   bww wbbw  bbwbb   w   wbwwbb 
+__,bb bwbb wbbb  bw w  b   w ww     bb  ww wbww ww bbbwwwbwwb w b b
+__,bb bw bbbw  ww w  b b b wbwb b bwbb wwbbbww   ww w ww b wb ww   
+__,b bw b b  b   wbw bww w bww  w wbwbwbbb b  b wwb www bwwb  b wb 
+__,bw w  b  w wbb bww  b  wb bw bw w b wwbwbbw w bw b  w bwbb wb bw
+__,bw w wwb  ww  bb  w bw    b   bw  bw b b  b bb w   bw  ww bb  w 
+__,bbwb w b w bwbb ww  wb     b wwwwbwbwwww  bb b bww b bbbb w  w  
+__,bbw w  b b  bwb   b ww    bw  b wwwwwb bbb w w   w b  bb wwbb ww
+__,bwwbw    w bb wbwwb  b wb bb bww  bw wbww ww   b  ww bbbw bwb b 
+__,b  bb w wb w wwb b w bbwbwb b bw bw bwbw  wbb bww wwb   bww  w  
+__,bwbwbb   w  b w bbbb bb bw b  wwwb bb w w ww b w ww  bww w ww bb
+__,b w  bbw bwbwwwbw    w w bwbw b b b w  b bbw ww b  b wb ww wbbbw
+__,b wbw bbwwbww wwbbwwwwb        ww   w b   bwb bb b wbwbbw bb  wb
+__,bwwwwbwbwbw w   w  ww  ww  b wb bbbb  b wbbbwbwbb  w bw     wb b
+__,b  bbbw wb wwbwbb   ww wb wb w   w bw bwww  b wbwb    bwbb wb bw
+__,bww bw bbbw ww b   bwbbwbwwbw  bbw  w  www w b b  b bbww   b  wb
+__,bbww bw      b b  w   wbwwbwbbb www  bwb bw w www wb wbbbwbb b  
+__,bb  bwb  wbb ww www bb wbb w bwww wbw  w  bbb w bw  b bwbw bw   
+__,bb b wwbbwwbbbwww  wbbb  ww bb  w bbwbbb  w  w  wb wbww    ww   
+__,bbwb    bww wbw bw b  w  wbw bw w b  w bb wbbwwwwbwwb bbbb  w   
+__,b wbb  bw wwbbb bww  w b bbbwbb bw    w ww w bwb b b  w www w wb
+__,b bw  wbw  wwwb wbb  bbb b bwb  b b  b bbwwwww ww  www bbwb    w
+__,bb w   bbwwbb w   b   bbwbwb    wb  wbwbbwwb bwwww b    b wwwbww
+__,b  bbw w bb wwb www ww  w  b w w   bbw w  wbbbw bw    wbb  bb  b
+__,bw www  wbb w  bbw wbbw  bwbwwbw  bbbw bbbw w bw  w bw  w b  b  
+__,b wwb    b   b b w w   ww ww    b ww w bbbwwwb bb    wb   b    b
+__,b b bw w wb b   wbb wwb bbb w  b   wbwwww  bbwbbwww   w wwbbb w 
+__,b     bbwb     w  bw     w b      b b   bw        wwbw  w       
+__,bb  w w  wb bw bw  wbw w  b bbw bb b bw b  b wwwbwwb wbwww b  bw
+__,bbbbwbw w bb b   b wb w   bwww w  wbb b w w   ww   bwbwww wbbwbb
+__,b  wbbwwwww ww  bw     wbbww bw wbbw bbww wbb bbbwb w  b   b   b
+__,bwbb bwwbwbww w bww w ww  ww w bw bb b     bwwb  bb  w  b b wbbb
+__,bwb wb b  www wbbbwwwb    b w wbww   bb bwbb bwwbw  b  w   bb  w
+__,bb   b w b b w wbb  wwwwbbwbwww  wb bb bb wwb   bw   b  wwbwwb w
+__,b w w  wbw  wbwb wb b b bbw wbwbbb w b ww w bbwwb ww      bwwbb 
+__,bbwb  w   wbb wwwbwbb w w b wbbb  b bwbbb w w w  w  wb  wbwb  ww
+__,bw bbw bb   bw b wb wwbw  wb   b w  w w bbbwbwbw  wb ww wb bww b
+__,b   wbb b    b     b  bww  w ww b   w  wb  w      wb    ww b  b 
+__,bbw  bwwbw bb  wwwwwbwwbb b bb www w    ww  b  b  b  bb wbwbwb  
+__,b   wwbww b   w wwbbwb b  b b   wwbwww  w wbbbb b wwbw   bbbwwb 
+__,b   bbb w b  wwbw w wb wbwb  bw  bw  bbbw w  bw bwbwwbw b w     
+__,b wwb  wbbwwww bbw www bbbww  wb bb wbb   b ww      b b bbwww b 
+__,bw wwwww                  b     b     b    b  bw   bbbb www wb  
+__,bbbwb   bb  b   wb w wb w  bwb  ww bw bw w w wbbwbw ww w bwb bwb
+__,bwwwwwbb b www   w   bww bwwb  bb bbw b    b      w wbb bb b ww 
+__,b w w bww b bb    w w   bw bwbwbbb wbb ww www ww  bb bb b bwbw w
+__,bb w   bbwww  w  bw    wb b bwb  w  w bbwbwwbwbb b bwwwwb  b wbw
+__,b b wb  wbwbw bwww b bb wbwbw   bwb wwwbw b    bbbw  bwb w ww   
+__,b   b  bb bw w wb b w      w w b   bwbw   b    w   w  w  w   b  
+__,bb bbbbw w b  b   b wwb    w  bwbwbbw b www w w    w  bwwb      
+__,b w w wb  bwbw wbbb    bww  w wbwwbbww wb bwb w   w  bbb bw b wb
+__,bwwbwww  w ww  wbwbb b  bb wbbw b bb  wbww w  bwbww b b  wbb    
+__,b b bbbwbwb bw b bwb   w  wwbb ww  wwbwbbb b bww bww ww   w    w
+__,bb bb www b b bwb   bwwb b w   w wwwbw b bwb   w w bb w bww wwbb
+__,b  wbw b      w bbbbb www w w   b bb   b b w bw b   w wb ww ww b
+__,bw   w bbwwb w bb     bw b w  wbwbbbw  wwbw  bwwb w   wbbwwbbb w
+__,b w wwbbbbb       wwwwbwb bwbwbw b ww w  bbw wb  b bb   wwb w wb
+__,b wwwb wbw bw bb wbwbwb bb w w      bbb b  w  bwwbw wb  wbw bww 
+__,bbwbw bwwb  b b ww bw  bbb wwb  bb ww  b wwwwb   wbw   bbwb  ww 
+__,bb       wbww bb   w   ww w bb   wb w   wb  wb b   w   b   bw   
+__,bwb wbwwwb wb  bwwww  b   bwb  wwwbb   wb wwb wbb    w  bbbwb  b
+__,bb w b wwwbwwbwb   bw wwbb     bw w bw bbw  b   bbw w wb  wbwbbw
+__,bwwb w wbww   b     b    b  w   wb       bw   b  b b  bbwb  ww w
+__,b bwb  bb wwb   w bb w  ww bw wb bbww bw wbbb    bwwwbwww b w  b
+__,bbwwbw bw w bwbw w bb b w     bw bbwww b  bbb   w bwwww w wb  bb
+__,bbbb  bwb wbww w w wb bbb w  wbb bb ww   w w wwb   bw   wbwwbw b
+__,bw bw wbbwbw w wb b  wb bbw bb ww  w w bw bbbwwb    bww bww b   
+__,bbwbbw  wbw  www  bbw b w b bbbb ww b     wb bw b ww   b w  w w 
+__,bb     bbb  wbbww bwb w wb w  bwwbbb b wb  bwbb wwwb w  w  ww ww
+__,bb  wbb  ww bwbbb b wwwb  w bwbwwbwb  b  wb ww   wbw bw   b wbw 
+__,bw w  w wb wb ww  ww bb  b wbbb bw  wwbbwb wbbb  w w   wbbw bw b
+__,bb wbb bww w b bbb wwbbw   w  bbw bwbw  wwb  wwwb b w bww   b  w
+__,bwb  b w  ww b w b wwb wbbbbww  b wb bwbw  b wb     w wbbwbbwww 
+__,bbwb  bww wbwwwww   w bbbw b wb  w w  bb bw wwbb  bb  b  bb ww  
+__,b ww   bbbbwbw b bw b  w bbbb www b     w  wwb  ww bw  wwbbbwwwb
+__,bb  bwb wbbww b  wb   bwb wbb bbw w w wb wbbbbw w  ww  w w  wwb 
+__,b w   w bwb bbbw  b b  wwwb  w  bw w wbb wwbbw  wb b wwbwbb w bw
+__,b   wwb  ww bww bb bwwwbw  b bbw b  w   w wwbwb b bbb wbbww  wb 
+__,bb w bb b w bbwbw wbwww  ww wb b b  bbwwwwbbwbbw   wb   ww  b   
+__,bbb    wwbwww  wwwb wbwbww  wb wbwbbbw  bwb b b  bw b   bw wb   
+__,bwbww b b wb ww bbw bbbwwww wb   w     bbwbw bbw bwwbwb b    w  
+__,bwwwwbbb    bb ww bw bwbwwwbwbwbb   w w bbb  b  bw ww  bw  wb   
+__,bwbbwwbw bw w    bwb bwbwbbb w  w ww  b b  wbwbbw  w wb   bw wb 
+__,bbwwwbwb bbb wwww bbwbwb b  bbbwbww w      b  w b   b  w   wbwww
+__,b bwww   b  ww  bbwbw  w  wbwb b w  bwwbwwbbwbw bb  bb bw wb   w
+__,bw  bb  b  b wb wbwb     wbb wbbbbbbw wwwwwbw  bww bw w  ww b w 
+__,bwb wwbwbb   ww     b bb  wbb bw bb   www b wbwbwbw bbw ww bww  
+__,b b  b  b wbb  b b w     wbwwwww b   b   w  bwbb wwwwb    wb  w 
+__,bwwbb w w wbbwwwb  bwww w   b  wwb b wbwbw bbw bbw b  b  b    bw
+__,b bbbb b    bb w bwwww  w wbb  b  b w  bwwb   bww  wwwbwww wbbbw
+__,b b   w  bw   wwbwwwwwb b  w   bwb w  bb b w wb  w   b  wb   b b
+__,b b wbw   bw bwbbww w  b wbb    w  b ww ww w  bbb bbw    w   b w
+__,b bwwbb  ww w bw bwwwbwwb w   w b w b wbbb  b  bw bb w bw  wwb b
+__,b ww    wbb b w b wbwbb   www     b   wbb bbb  wwwbwbw wwwwbwbbb
+__,bb b  w   bb bb  wwb w w b wbwwbw  w w  b    www  bb w  ww bbbwb
+__,bwww b bbww w bw   www bwb b bbw bwwbbw b    ww   wbbbb    bbww 
+__,bwb bbb   wbww bbwwb  wwwwwb wwb  b b bw  bw      bw bw   wwwbbb
+__,b www bb   w w wb  w bbww bb bb  bbwbb  bww   w w w bw wwwbw bbb
+__,b w  bb    w ww   wwb      b wb  b  wb wbbbbb  w  wb wbwwb w    
+__,bw wbw w ww b   bw bwww wb    w b  b b   b bwbwwbb wbwb bwwwbb b
+__,bw  wb  wwb bb ww wwwbb w bbb ww  wbw   wbbb bb  wwwb    bwbw  b
+__,bbbb  wb bbb bw ww bbwb w wbbwwbb   w      b ww w  wwww  w bwbbw
+__,bbw  wwbwbwbwb  w bb    wbw  wb bb w  b w  bww   bwb bbwwbbwww  
+__,bw wwbwb b  wbwb wb  bw bwbw b w w   wb w wbbw     bwwbw   wbbbb
+__,bwwbbwwwbbwb bb   bbwwb w w bb w  w bbww  wbw   bw   bw wb  bw  
+__,bww bwwwwbbwbbwwbbb bb bwbw   w  w   w   w  bww  bwbbbwwb    b  
+__,bb b w  b b  w  w  bww  wwbb  wwb wwbwb   wb b  ww    b     b  b
+__,bbwwb  bwwwbw    bbw ww wbb  wb b bw  ww   bb bww  bw  bw b bw b
+__,b bb    w b b bw bwbwwbww bww bbb wb   w  ww wb bw w wbw b bbw w
+__,bbbbbwb    ww  b  bw   bwbw w     w  w b b   wb     ww   b  bww 
+__,bbwb bbwb bw w  wbwbwbb  b    ww ww wwbbb bbw    b  w w  wwbw wb
+__,b bw   w b    b   b b  b w b wb  b  b   w wwb  wbww       w b ww
+__,bwwbwb b wbw ww bww  w b   bbb    wwbbwbwb bb  ww  bb   bww wwb 
+__,bwbbb   b b wwbwwbwwwb  b w bw b      bw wwb bww  wbwwbw bw b  b
+__,b   bwb w   bbbw   b  wbwwwbbw bb bb wb w w  bwbww bbbw ww  www 
+__,b  b  ww  b  wb bwb         w w wwwww    w bb    w b wbbbb   b  
+__,bbb bwww  bbbb    bbwwwwbw b  wb  bw ww w w b b wb    wbww b bww
+__,b w w ww  b ww   bw  bbw wwbb ww  wbbb bbw b wwbwb bw bwb    bbw
+__,b  wwbw  bwwbb w   w wbb wb w   ww bbbwwwbwb bbwb  wb   w  b wbb
+__,bbw wwww  b  w b     wwww      wbwbb w bb wb bbwb  wbwwbw bwbbbb
+__,bw w  www wbwbbwb bwbwb   wwbbw   wbb  b bbwbw b       bbw  wwbw
+__,b  wb b wwwww   bw b  b w bbbb wbw ww  wb   bbbbbbw ww wbw  wwb 
+__,bwbbw wwb w b  bwb  bbbwwb  wwb wb wwwwww   b    bbb bwwb  b  w 
+__,bbbb w ww bwwww bbbbw  w bbbww w   wwwb w    b  ww b bw b b wb b
+__,bwbbbbw  wwb  wbbwb ww  bbw bwwww   wb wb b ww   bb w  bwb   bw 
+__,bwbwww bb  w   w  wb w bbbb wwww bb wbw  bbbwbw  b  b  w  ww wbb
+__,bb wb w bw w  w ww bbbb w  wbb    bbwbww bwb b  b wbbw b www  ww
+__,b wb wwb    b  ww bbb  w www  wbbwwwbwwbwb  bwb    w b wbbbbw b 
+__,b wb b w wb wb wbbb wb w  b  b  b wb b b www  bw w wb bwbw  bwww
+__,bbb www  b b   wwbwb  wwwwww  b w wwb bbw b  bb  bwb b  bwbwb  w
+__,b   b        b      bbw w  b w   w bw     wbb b   ww  bww   w   
+__,b bwbwwbwb  w b  b bw wwbwb   w w   b  ww ww w w  bbbw bbwbbwbb 
+__,bwbbb b   b wbb wbw wwbb  ww b bb w   bww bwwww bbw ww   b wbw  
+__,b bww w  bw bw  bw b bwb w b  w  w  bbwb bbw wb  w wwb wbwbbbw w
+__,bwb   b  b  b  b b bw w  w ww wwbw wbw   wb w  wwbbwbbbb bw w   
+__,bw  bwbw    w  b w           b  b bbbbb  w   ww wb    w    wwb  
+__,bw  wbb wwbw w w bbw w bw b bw   bb  bwbw w wwwwwb  bwb b  b  bb
+__,bww  b   bb  b   wbb bwbb w  bww w   bb  w   w wb  bb  wwwbww   
+__,b bb ww w b ww b bww bbwb  bwww bwbwww wbbbwbww  b  wbb       b 
+__,bwb b w  b ww wbbbbb wwb    bwb bwbbwb  wbww bb  w   w wb w  www
+__,bbwb  w  bbw w wbww   bwbwbwwb w b  w wbbw wwb bb  wb bb   w b w
+__,bbw  b b  bbww bww b bw b  w  bw  wb wbbw w bw wwbbbbwwwww    b 
+__,bbww ww  wb w  w wbbbbb  wb ww  bw bb wbb wbbww  ww w b  b bb   
+__,b wbw wbbb w b w bwwwb ww  w bwb wb bb w  wbbw bw bb wb w  b   w
+__,bb  wb   bwb  bbww  bw w   b  wwb  b www wwbwwbwbwwb bbbwb  bw  
+__,b bb w bb   bwww ww bb   b w b  wwbw  w bww bw b bb   wwbbwbwbww
+__,b w  bw wwbw bb    w  w w bbbb bwwb w wwbbwwbbb wbww   b  ww b b
+__,bww    bwbb   bb   ww  bbbbbb  ww bw w      b w w w  bw      wwb
+__,b bwwbb  b bb  wbww  wb bwwwb   w bb bbw b  w  wwwbww   wbwb w b
+__,bb w   bwwb    w wbw bb bb bw  w b  bbw  wb  b   b   wbw w w ww 
+__,b ww  wwbw  bwbbw bwbw ww b wbb   b w wbbb    wwbwbb  w w  bw bb
+__,bw w b bb wwb  bw ww  b   bwbwwwbbw ww wb b bbw   b b w bwbb w w
+__,bwwbw  wwww   b ww    wbbwwb w  bb  b   bbw b wwb wbbwbb wwbbb  
+__,b  wwb   ww   bw      wwb bbbwwbb wwb b wbb wbwwb ww b wbbwbb  w
+__,bbw ww  bbw   bwwbbw  wbb bbwwwbb   w       ww  bwwbwb w bwbbbw 
+__,bbw    w b  bwbw b ww w bbwbw w  bwbw bbbbb www wwb b  wb w w  b
+__,b b b  w bb ww  bwwb bbbbww bbwbwbbw    www      ww  ww bbwbww b
+__,b    bwwww wbw b  wwww w b wbbbbwwb bwwb bbb   wb   b  wb  bww b
+__,bwbw b b   bb   wbbww b wwww w bb  w   w w  wwwbbbwb wbb b bbww 
+__,bwb wbbb wwwb b    w b wwb  wbw wbbw   b  wwbbbww bwb bww    wb 
+__,b w  b bw w   b w wb  w   w  w  bbb wb bbwbwb w   wwb  b     w  
+__,b b  b wbwb  b bwbbbbwwwbwbww ww    b bb  w  wbb w b bw ww www  
+__,bbbbww wb    b ww wb  www b  b bw w    w wwb wwbbwwbb  bbbwbb w 
+__,bb w  w bb wwbwwbw  bwwbw bw bb   bw w  wbbbbwb   wwbwwb w   b  
+__,bb b w b  bw w w bbw w  wwwwb b wb b wwb b wwwbwb w bb wb w b b 
+__,bbwwwwbb b   wb ww ww  w bwb    w  bw w  bbw bbwwb    bbbwwwbb b
+__,bbbww bbbw b  wwwbw  b  w w  b b  bww bb  wwbbbw w  wb w  wwwb b
+__,bbw b    w wbwb  bbbwwbw ww   bww wb b bwb  w w b b bbww w bwb w
+__,bw b   bwbb  ww www b wwbw  wwbbbbb w b ww       wwwbbww b bb bb
+__,b w w  b bbwbbw w bbw   wwbw bbbb  wwbb w wbbw    wbb w bww  w w
+__,b    b    wb ww wb   w  w bwbw  bb   w b  w  ww   b b  wb   bbw 
+__,bwww b wb   bbwbbw w    bw bw  b bbw  wwb bbbww wb ww ww  b b bw
+__,bwbwb w wbbw  wwwwwb   bbw  w  b  bw b  b bwww b  b bww  bbwb bw
+__,bw w  wbb wb w   b bb b bbbww bw bw w wwbww    bwbbb ww bw w wb 
+__,bww wbb w  bbw        bbb wbwbwbb w    www   bbw ww bbwbwbwb wbw
+__,b wb bb b    wwb   bbbbwwwbwb  b  w  wbwb  www bw  b bwwwwwb b w
+__,b    b wwb  bb ww bwbbb www  w bw w bbb bw wbwww  bw   wbbb bww 
+__,bw b wwwb w b bwbw b ww    bw  bbbbww w wbbw  w  wb bbww bbw   b
+__,bb  wbbw  ww b ww  wwbb b ww  b  wb   bb w bwbbw www   bwbw bwbb
+__,b bww  bbb    wwbbbbwwwwwbwbbw  w w  b w  wbw  bbbbw bbw   w w  
+__,bbw w bwwbw bwb  wbw w bb wwbw b w b  bbb    b w bwwwbw wb w   b
+__,bwwww w   bw  b bb w bw  bbw ww  w bb b wbbw wwww w b bb  bbbw b
+__,bw wb bwbwbwb wwwbbw b  w bw b    wwwwb  wbwbbwbbb     wb  b   w
+__,b b wwbwww  b bwww bb     bw wwbw wwb   bb bbb w w wbbwb  ww bb 
+__,b b w wbw b b   w bbw  wwbb b wwww  wwww b w    bb wbwbwb b wbbb
+__,bw    w bwbb w     w  b  b bwwbww bbwbbwwbwbb bwwww  bw bb b  ww
+__,bwwww b wb bb bb  wwwbw  bww  bb  bbw  bbb   wb      wbwwwbw wwb
+__,bwww b b b w  b w w b w w bb wwb   ww wb wbbww bbwbwb  wb  wbb b
+__,b ww bw   wbb w   wbbbbwbwb b    bwbw  b   ww  bwb      ww   wb 
+__,bwbbw ww    bwb b b wbw bw w b   bbb   wbbwbw bbwwww w b  bw  ww
+__,bbbbw w w wwb w  bb  bw wwbbbw wb w  b wwb wbww  wbb w    b b bw
+__,bw b bwwb     bbwbbwwbw bw  wb wbb   w w  w wb w ww  bwbb b bbww
+__,bbwbb   w  b  wb bwb bw w w  ww  wbbwb   wbwwbwbw w    wb  b wbb
+__,b w  w w bbwbwb  ww bww   b bbw wbbw bb bb  wwww  b bwb b  wbww 
+__,b  wwbw bbbw  bwbw wb wb ww  bw wbb bw   bw   bwwbwb  bww   wb b
+__,b wwbbwbwbb ww w  b wwwb  bbbb ww  wwwb     wbb wb bbb ww w   b 
+__,bbwb  wbw w wbw bb  w w  b bbbb  w wwb  b bw   w w wbbwww b wbbw
+__,bww wwwbw  w w wwb b w bbb bwb wwbw  bb     bbwwb  bwb  bww b b 
+__,b b    b bw  bww  bw       wbw    b        b    wb  b    bwwwww 
+__,b w  wbb wwb ww   bwb bb wb bw bbb w ww bw wbw ww   bbbbb  w w w
+__,bw www bb wbb b  b  b bb  b b www bwbw wwwwbw ww w b b  wbb  w b
+__,bb bw        w  bw  b  bbb   ww b ww    bww w bwbw   bww b  b   
+__,b bw     w   b     wwb     w  bwb ww    b wwb   w  wbwb  bbbw  b
+__,b ww  bb b w  bbwwwb w wbw bbw ww  b   bbb w wbb   wb wwwb  wwbb
+__,bwbb wwwwbbwb  wbw wwb  ww b  b    bw b b w ww  bbw   bb b bwwbw
+__,bw bbbwb    bwbwww wwbww w bw  b  b ww  w bb b b  b bw wbwbbww  
+__,bw wb wwbw b w w bb w bw  ww wbb  w w wbw bbwbb b  b b    wbwb  
+__,bw w b wbwwwb     wb  b   bwb bwbwbb w    bwbbww w  w b bwbwwbwb
+__,bw wbw bww    w   bww bww bbbwwb b  bb  bwbw  wwb    b bwwbbbww 
+__,bbw w  bwbw    bb w bb www bb bb bw ww b  w ww   bbw wbwb w bwwb
+__,b   bb ww wwb wwb wwb  bb b  wwbwwbwb  bbww  www bb     bbbww  b
+__,b    w  bbw bwbwbw w  bwwb wbb b w  www wb wwb bw bb wbbbwbw    
+__,bbbwbbbwwbbbbbbww  w    w  b w   bb     bw w wwbw w w wwbwbw wb 
+__,bbbb b w bww  b wb w  b www   b  w w  bbb  wbwb wwbw  bwww bbwwb
+__,b bwwb bwbwbwbbb b w b  w w wbw  b  ww w  w  bbbwbww  wbw  bbw  
+__,bw  wb b b   bbbwbb w bwwb w ww bwbb bwww w bw w wwbwb  w  b b  
+__,bb  w     ww wbw  w bbbw w bww  b bbwb wb bbwbww  bw wwwbbb   wb
+__,b wbbb  wbwww bw   wbwbbw w  b b wbwb     bw wb b  b wbw bwww wb
+__,bb www wwww  bww  b b    w      bbbbbww ww bbw b   b  bbwbwwb b 
+__,b b bb ww bbwww  b ww b bwb  wbbbwwww  bw  b b b wbbbww     www 
+__,bbwwww w bbwb    b  w w w   wbbwbbww  bw bw w  bwbbbb  wwbwb   b
+__,bb  bwbbbwwb bwbwb bww b b wb   w b  w b b ww bw b www b ww w w 
+__,bbbb   ww bb b    b b bbw wwwwwb  wwwbbw   wbwbwbw b b  wbw ww  
+__,b  bw wbwbw bb     bb ww  wwwbwww   w  w bb bbw w    bbwbwwbwbbb
+__,b  w  ww w  bwb b wwwb wwbbb wbb  bbbwbw  b   bbw wwww wb   w bb
+__,bwb b  wbw  w bbw bwww b w b  b  wbw bwbw   ww bb wbbb   wb wwbw
+__,b bw w  bw  www  wbbw  bwbww wbb ww   w bbw wbbw bb bbwbb   w  b
+__,bb  bwbbb bw  w  bwb  wb bbbww  w ww  b  b wbbwbwwwb bw w  www  
+__,bwb w    wb bwwwb  bbbb bwwb  wbbw     wwwwbw   bbwbwbb  w b w w
+__,bbbwwb  wwbbw  b www  bbb w  w  wbw  b   w  bbbbbwb w w w wbbww 
+__,bbbbww   b w bwwb    ww bbbw wbbw w bw  b wbbw www wb wwbb b    
+__,bbbwwbbb    bwww b  wwbbb b  bwb b wwwww w b w  ww w  bbwb  b w 
+__,b b bw bbb www wbb  b     w w   bbwbwb www   bwb  w bwwwbww wbbb
+__,b wb bbb  w bww w w b bwbw bb  bwbbw   bwbw  ww  b w   w bbwbwww
+__,b        b w b wwb    bwwbw wbb wb www wbbwbbb  w bw   w bbwbb w
+__,bwwb bbww w wbwwbw  ww bww bb   bbwbwwww   bbb w    bbb    b wb 
+__,b www wb bbbb wbb wbwb w b bww w w bwbb  w wb w wb w  w b  bbw  
+__,bbb  bb bww  ww bw wbwb bw    wwb  w     b b bw  wwbbw  bw      
+__,bb wbb  b w bb w b  wbwwwwbw    wwbw  wbb wb  ww ww wbbbbb   bw 
+__,bwbbbb b  b b bw  b w w w b    bw ww wwwbbb wwbb w www wbw  bbw 
+__,b bbbb  wbbbb   wb bw wbb wbwb w bw  w   bwb bwwww www   b  ww w
+__,bb wbwbwwbb  w bwwbw  b b wb bw   bw  w  w  wbbww bbb ww bww  b 
+__,b wbw w b bbwb wwww  b bwbbww bw wbwwbw   bb    b w   b bwbwb  w
+__,bbw     ww w  b w  b      wbb b  b w b b   w  b  w w   b w      
+__,b  b bw bbb bbw  b w wb wwwwb bwwwbb  ww   bwwb  w wb  w wb  bbw
+__,b w   bbbbbbw bbwwwbb b   w www wwb  b  w  bwbw wwbbww w w   bb 
+__,bbwwwwb bbwb wbbwwb b b  bw www  bbb wbwwb     w  bw w  w b  wb 
+__,bbwwbwwbbbwb  bwwb   b  ww wb w w     w b bwwww wb  ww  b bbb bb
+__,bwb  wb b wbbbbwbwbbb w ww wwbw wbw   ww w wbwb w  b  b  wb   b 
+__,b wbb   bwb ww  wwwbw bwbwb b  ww wbb  w bb b  w  b  wb w wbwbwb
+__,bw b     www bb   bwbb b w  bwwwbbw bb wbww b wbbw w  bwbwb ww  
+__,b w bb bwww  b bwwbbbwbbwwww  wb wb b ww w b   b ww b wb  b w  b
+__,bb  bwbw wwbw b bbw    wbbw   wb   wb wbb wb ww wbbbwwww  w bb  
+__,b wwbw bbwb wwbww  w wb   w   w  bbbbww w  wwbb bb  wbwbw bb  b 
+__,bw   w bb   b     w  b   wb  b    w bww    w    b   w b    wbw  
+__,bbbw   wb wwb wb w w bb b b w  wb   wwww  b w b wbbw bwb wbbwbw 
+__,b  b wbw w b w wwbw bw   b  b bwwbb wwb     bb bw www wbw bbwwbb
+__,b   b wbb ww b b  wwbwwwwbbb  wbb wb bw  w wwbwbwbw    w bb b w 
+__,bwbbwbww bwbw bww b   b  w  wbb bbwwbbbwwb w b    wwww b     w b
+__,bbb bbwbb    ww bw   wbw bww bw w wbww bbww wbwb   bww b  bw  b 
+__,bb   w bb bbwww b   wwb wb b b wwwbbbwww  bbw w   ww bwbb w   wb
+__,b  wwb b bwb bb  ww wbbb bbbb wwb bw  ww w wwwb w wwbb w w   b  
+__,b   w  wb  bw w ww wbbbbw b  b   b wbwbbbwww   b bbw w  bbww  w 
+__,bbbw b  b    wbb bw bbw  www  bbw  bbbbw wbwww b  wwww  b  w wbw
+__,bbw wwb w  bb  ww wb bwbwb  bww w bbbbw  b bb  bwbw w www b  w  
+__,bww b   w b  www w  wbw  bb w b w   bb   ww bb  w  b      bb  b 
+__,bwwb wwwb  bw w b wwbw    bb  wb bb b  b  b bbwb www  wbbbwwww  
+__,bbw  bb b  bwww wb www bbw bbw   w bbb bwbb  b   bwww w w  wbw w
+__,b   w  wwww  bwbw wwbwbw  bw b b bbw   b   bbwbb  bw ww bwwbbbw 
+__,b www  wbww w   bwbbbwbb wwbwwwb bww wb bbbw  b  bwbb      b w  
+__,b  wbw  bbbwbwbwb  wwwbwwb   w w  b bwww wb bbw    wb  w  wbb bb
+__,b bw w   wbbw wbwwb www   w  ww wwbb wwbbbw b bb   bb wbb  bw b 
+__,bwwwbbb b w bbwbw  wb   b w  wbwbwbwb   w bbbw b   wwwb w  wbw  
+__,b b  b bbb  bwwwbb w b  bw w b wbwb ww  wbbwww   www bw  bw  bb 
+__,bbbbbwwb bww      bb   www    w  b  bww  wb w   b w  b          
+__,b b  bbb bw  w w   bw bwww   wwbb bbw wb ww b ww bb  wwbbw   bw 
+__,b  b wbbwbbbw w w bw   b b  bw b bwwbbbw   bwwwbwb    www  w wwb
+__,bw  b ww bb b bwbw w  ww b   bb w bwbw     wbbbbbwbbw ww wbww w 
+__,b bwbw wb w bw www  bww bbbww www   bbw bb wbb w    bbb     wbbw
+__,bw b w b b bwwwb   w  b www bwbw   bwb  b bw b b wbww b wbbwb ww
+__,b  bbb  ww   b  wbbwwb bwb  w ww b wwb  w  wbbbb wbwwwwbb b ww  
+__,bb  w bb wbb bbwbbbbw ww     wbw   wwwwb bb bwbbww bw w   w  ww 
+__,bbbb wb    w ww wbbwbww w  bwbw   b  b bwbw b wwb  bwb b w bw w 
+__,b  wwwwbwbb b b wbw www  ww    wb ww  wbb     bbwbbbw bb bb  wbw
+__,bw bwb   w  bwbb bww b    wbw  wbb wwbbbwb wbw w w bbw    wwb bw
+__,b ww bbw   wwb   bww bww bbw   b b b w wbw  wwbb bww wbw bwb bb 
+__,b   b www  bb  bw bb w bwwbb  bbwbb  b w wwwbwbw wb w   bw ww bw
+__,bb w wbbbbw  wbw  bwwb b  b wbwbw bw    bbwbw b wb  bw w w w  ww
+__,b    b bw www wwb  b  wb  b bbbw  ww bbw w    b w   ww b   b   b
+__,b   bbbwb  bww ww  wbb b  bb  bww wwb  w bbw    bw bbwwwwbw bw w
+__,bw  b wbbw   b w ww b  wwwb  wbw   bbbw bbwbwwwbb bwb wwbb   w  
+__,bbb  bbwwwbw   w bb ww wwb w w  ww   bw b b b  wb b b w wb bb ww
+__,bw  w     w bw  b  w    b w bb  wb bw   w bw ww   bbbbb ww   b  
+__,b bw bb ww wb  bb   wbbwbb www ww   bw bwwbbw wbw b bw w    bw b
+__,bb w    bwb bbw  bbwbwb bww wbw w w w bbwbww  bw   w b wbbw b w 
+__,bw  wwwww w bbb b wbbw w b bbwb bwbw  www   bb w   wbbbb   ww  b
+__,bbww   w b  w   bb bw bwb   b wwwwwbwwb  w   b bb  wbbwww bbbbww
+__,b wbwwww b bwb   wbb   b    wwwbbbbwww ww  bb bb w ww  bb b ww b
+__,bw  w bb  w bwbb bb w w bw wbwww wbb bw  ww  b bw bb   www  bbbw
+__,bb  bw wb b   www    bb wb  bwwb bbwwwbww  bbb bw  www b bw ww b
+__,b  bwwwb b bb w   b w bwbw  wb b wwb  bw b ww wb  bbww wb b ww  
+__,bbbww b w   wbw bw bw bwbw    w   wb  w  wbbwwbwb  bb w bb bwwbw
+__,b bw bw  bb  wwbwwbb b w  wbb wbw w   w w   bbwwbwb bww w   wbbb
+__,bw   bbw bbbbb  wbbb  bw  bw  wbwwww wwbw  w b   wb    wb bw  w 
+__,bb  b w  b bw     wwbb w    w  w b   wwbb     ww b b   ww  wb b 
+__,bwbwbww  bbb   w   b wwb ww  wb ww wbbb b wb bwwb b  ww   wbbw b
+__,bbw   b b  bb bw  wwwb    wbwbbb  bbb  wwbbw w  bwwwbwwww   w wb
+__,bbw  wbwwb wwb wbbbb bb w b  b   bw bw w  wb w  bwwwb bw w wb  w
+__,bbww  w bb bwbb  wb w w   bbb  bw ww bbb www wbw w bww  w b bw b
+__,b b wb  bwwwwwbw        www bbw          wbww    w bbbb   b  b b
+__,b w w  bb ww  wwbw w w bbwwb w   bwbwbw w bb w bbw    bb bwbb wb
+__,b ww  wb w   b bbb w b  b     wbw bw wb bwbwwb    bw   b  w   ww
+__,b wwwwb b  w bww wb     b  wwbw b  wbwb w b w wb w  wbb bbbbwbwb
+__,b    bbww          w         wb bw  wbw   w bb    wb      b b  w
+__,bwb b    b  www ww bww  wb   wwbbwbb  b bbw wb   bbwwwwbbw  bb w
+__,b  bbb bb  bb  w wbw wwwwbbwb ww wwwb    bw bb wb  w  ww  wb bbw
+__,bb   bbbww  bww  ww wbb bbw b b w    wwbw bb  b  bw  wbbbwwwwww 
+__,bwbbw    bbb wbww    wwbb bbw wwwb bw    bbwwb   ww  b  wbwbww b
+__,b w  w   w bw  bbb  bbw bbwb wwbb  ww   w bwwbwb b bwbwww bw  wb
+__,bbwwwbbw w b  b wbbbw   w b w  bww  www b  bbw wbb b bw   wb bww
+__,bww bw bb w  wbwwb  bbbbbwwb w  b bw bww  w bw b  bw bw  b  www 
+__,bb   wbwbb b w wbbw   bw w  ww b  w bbbw  bw b  w bwb ww b b  ww
