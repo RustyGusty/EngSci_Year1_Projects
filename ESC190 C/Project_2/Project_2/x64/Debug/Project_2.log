@@ -1,16 +1,19 @@
-﻿  sammycarving.c
-C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(17,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(23,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(42,8): error C2059: syntax error: '<parameter-list>'
-C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(112,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(113,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(116,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(117,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(121,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(122,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\llnak\source\ESC190\Project_2\Project_2\sammycarving.c(120,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+﻿  c_img.c
+C:\Users\llnak\Downloads\CS Projects\EngSci_Year1_Projects\ESC190 C\Project_2\Project_2\c_img.c(39,24): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llnak\Downloads\CS Projects\EngSci_Year1_Projects\ESC190 C\Project_2\Project_2\c_img.c(40,24): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llnak\Downloads\CS Projects\EngSci_Year1_Projects\ESC190 C\Project_2\Project_2\c_img.c(63,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llnak\Downloads\CS Projects\EngSci_Year1_Projects\ESC190 C\Project_2\Project_2\c_img.c(64,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.c
+C:\Users\llnak\Downloads\CS Projects\EngSci_Year1_Projects\ESC190 C\Project_2\Project_2\main.c(17,2): warning C4013: 'test_p2' undefined; assuming extern returning int
+  seamcarving.c
+C:\Users\llnak\Downloads\CS Projects\EngSci_Year1_Projects\ESC190 C\Project_2\Project_2\seamcarving.c(13,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llnak\Downloads\CS Projects\EngSci_Year1_Projects\ESC190 C\Project_2\Project_2\seamcarving.c(25,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llnak\Downloads\CS Projects\EngSci_Year1_Projects\ESC190 C\Project_2\Project_2\seamcarving.c(168,26): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llnak\Downloads\CS Projects\EngSci_Year1_Projects\ESC190 C\Project_2\Project_2\seamcarving.c(168,40): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
   test.c
-C:\Users\llnak\source\ESC190\Project_2\Project_2\test.c(226,25): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\llnak\source\ESC190\Project_2\Project_2\test.c(226,39): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\llnak\source\ESC190\Project_2\Project_2\test.c(267,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\llnak\Downloads\CS Projects\EngSci_Year1_Projects\ESC190 C\Project_2\Project_2\test.c(226,25): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llnak\Downloads\CS Projects\EngSci_Year1_Projects\ESC190 C\Project_2\Project_2\test.c(226,39): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\llnak\Downloads\CS Projects\EngSci_Year1_Projects\ESC190 C\Project_2\Project_2\test.c(267,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
   Generating Code...
+C:\Users\llnak\Downloads\CS Projects\EngSci_Year1_Projects\ESC190 C\Project_2\Project_2\main.c(18): warning C4716: 'main1': must return a value
+  Project_2.vcxproj -> C:\Users\llnak\Downloads\CS Projects\EngSci_Year1_Projects\ESC190 C\Project_2\x64\Debug\Project_2.exe

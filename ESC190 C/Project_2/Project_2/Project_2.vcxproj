@@ -133,7 +133,7 @@
   <ItemGroup>
     <ClCompile Include="c_img.c" />
     <ClCompile Include="main.c" />
-    <ClCompile Include="sammycarving.c" />
+    <ClCompile Include="seamcarving.c" />
     <ClCompile Include="test.c" />
   </ItemGroup>
   <ItemGroup>
